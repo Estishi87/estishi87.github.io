@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>movieData2</title>
+
+    <script src="/Users/User/Downloads/Course/movieData2.js" defer></script>
+    <div class="hero">
+
+    <h1>Movie Data</h1>
+    <h2>Project of 4 movies data</h2>
+    <style>
+         body {
+  background-image opacity: 0.3;
+  height: 600px;
+  width: 300%;
+  background-repeat: no-repeat, no-repeat;
+background-position: : :fullscreen;
+background-color: rgb(135, 177, 154);
+}
+h1   {color: rgb(252, 247, 247);
+font-size: 300%;
+  padding: 0px 10px 10px 100px;
+}
+h2   {color: rgb(66, 64, 64);
+font-size: 150%;
+  padding: 0px 10px 10px 100px;
+}
+p    {color: rgb(247, 245, 245);
+font-size: 130%;}
+
+p {
+  padding: 10px;
+}
+button {
+        margin: 0px auto;
+        background: rgb(81, 204, 112);
+        color: white;
+        font-size: 21px;
+        padding: 15px 20px;
+        border: none;
+        border-radius: 50px;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+        transition: all 200ms ease-in-out;
+      }
+      button:hover {
+        opacity: 0.8;
+        cursor: pointer;
+        background: white;
+        color: rgb(73, 241, 109); }
+</style>
+</head>
+  <body>
+
+    <p id="FirstLine">Which movie do you think is the best:</p>
+    <button onclick="movie1()">1. The Darjeeling Limited</button>
+    <button onclick="movie2()">2. The Royal Tenenbaums</button>
+    <button onclick="movie3()">3. Fantastic Mr. Fox</button>
+    <button onclick="movie4()">4. The Grand Budapest Hotel</button>
+    <button onclick ="other()">5. Your movie</button>
+    
+    <ln></ln>
+    <p id="SecodLine">Details of the movies</p>
+    <button onclick="showDetails()">All movies details:</button>
+    <button onclick="sortByYear()">Sort movies by year</button>
+    <button onclick="sortByRating()">Sort movies by rating</button>
+    <button onclick ="rateAgain()">Rate the top rated movie yourself</button>
+    
+
+    <p id="output"></p>
+  </body>
+</html>
