@@ -1,6 +1,7 @@
 //class=square, circle
 //element= gameboard
 //e= event
+//test
 
 let gameboard = document.querySelector("#gameboard");
 let gameWin = document.querySelector("#gameWin");
