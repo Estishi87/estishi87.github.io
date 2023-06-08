@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #97966d;
+  background: linear-gradient(to right, #3f3f2b, #919067, #7c7c5e);
+  font-family: Impact;
+  letter-spacing: 7px;
+}
+
+h1 {
+  font-size: 4em;
+  color: #cfcc80;
+}
+
+h2 {
+  font-size: 2em;
+  color: #2c3f09;
+  margin: 10px 0px 0px 0px;
+}
+
+#gameboard {
+  width: 350px;
+  height: 350px;
+  background-color: rgb(253, 251, 251);
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 9px rgb(252, 249, 249);
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+#gameWin {
+  width: 350px;
+  height: 300px;
+  background-color: rgb(253, 251, 251);
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 20px rgb(142, 44, 180);
+  border-radius: 900px;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(168, 235, 144);
+  border: solid 2px rgb(253, 251, 251);
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.circle {
+  height: 80px;
+  width: 80px;
+  border-radius: 60%;
+  border: 21px solid rgb(142, 44, 180);
+  box-sizing: border-box;
+}
+
+.circleWon {
+  height: 1000px;
+  width: 1000px;
+  border-radius: 60%;
+  border: 21px solid rgb(180, 105, 44);
+  box-sizing: border-box;
+}
+
+.cross {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  transform: rotate(45deg);
+  border-radius: 90px;
+}
+
+.cross:before,
+.cross:after {
+  content: "";
+  position: absolute;
+  background-color: rgb(228, 140, 39);
+  border-radius: 90px;
+}
+
+.cross:before {
+  left: 50%;
+  width: 30%;
+  margin-left: -15%;
+  height: 100%;
+}
+
+.cross:after {
+  top: 50%;
+  height: 30%;
+  margin-top: -15%;
+  width: 100%;
+}
