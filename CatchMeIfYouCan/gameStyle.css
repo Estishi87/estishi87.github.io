@@ -1,16 +1,18 @@
-.grid2 {
+.grid {
   display: flex;
   flex-wrap: wrap;
-  width: 500px;
-  height: 50px;
+  width: 1200px;
+  height: 100px;
   border: orange;
+  flex: 50%;
 }
 
-.grid2 div {
-  width: 10px;
-  height: 10px;
+.grid div {
+  width: 15.6px;
+  height: 8px;
 }
-.grid {
+
+.grid1 {
   display: flex;
   flex-wrap: wrap;
   width: 1000px;
@@ -18,11 +20,30 @@
   border: orange;
 }
 
-.grid div {
+.grid1 div {
   width: 50px;
   height: 50px;
 }
 
+.zero {
+  position: relative;
+  background: #fcb3af;
+}
+
+.one {
+  background-color: #101357;
+  border: 0px;
+}
+
+.two {
+  background-color: #00a0a0;
+  border: 0px;
+}
+
+.three {
+  background-color: #007f4f;
+  border: 0px;
+}
 .pac-dot {
   position: relative;
   background: #ffd5cd;
@@ -79,7 +100,32 @@
 
 .pac-man {
   background-color: yellow;
-  border-radius: 100px;
-  width: 10px;
-  height: 1000px;
+  border: 20px;
+}
+
+.write {
+  font-family: cursive;
+  font-size: 25px;
+  text-align: center;
+  background-color: #7144c5;
+  width: 90%;
+  padding: 30px;
+  width: 150px;
+  opacity: 0.6;
+  :30px ;
+  color: white;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 10px rgb(252, 249, 249);
+  border-radius: 300px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
 }
