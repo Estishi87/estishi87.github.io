@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#mandrake {
+  display: none;
+}
+
+#container {
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  box-shadow: 5px 5px 5px black;
+  border: 1px solid black;
+  padding: 200px;
+  width: 40px;
+  display: flex;
+  flex-direction: column;
+}
+#controls {
+  font-family: "Bangers", cursive;
+  font-size: 30px;
+}
+#controls > p {
+  font-size: 30px;
+}
+
+#canvas1 {
+  box-shadow: 5px 5px 5px black;
+  border: 1px solid black;
+  display: flex;
+}
