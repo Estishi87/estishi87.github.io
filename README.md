@@ -24,4 +24,17 @@ Hope you like it! 🙌🏻
   <a href="https://estishi87.github.io/EstiShi/">
     <img src="images/Esti.jpeg" alt="Logo" width="80" height="80">
   </a> <br >
-https://estishi87.github.io/EstiShi/#
+https://estishi87.github.io/EstiShi/# <br >
+<!-- PIC --> <div align="center">
+  <a href="https://estishi87.github.io/EstiShi/">
+    <img src="images/folder-open.svg" alt="Logo" width="80" height="80">
+  </a> <br >
+  
+## My projects:<br ></div>
+
+📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game based on PacMan game but I have changed it and did all grid and players myself🎮<br >
+📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game based on PacMan game but I have changed it and did all grid and players myself🎮<br >
+📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game based on PacMan game but I have changed it and did all grid and players myself🎮<br >
+📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game based on PacMan game but I have changed it and did all grid and players myself🎮<br >
+📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a baby shower if you are interested 😅
+Nothing secial about it, only me tring to style this web 🎨<br >
