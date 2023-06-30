@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const grid = document.querySelector(".grid");
-  let colors = ["one", "two", "three", "two"];
+  let colors = ["one", "two", "three", "zero"];
   let i = 0;
 
   //layout of letters and what is in the squares
