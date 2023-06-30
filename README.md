@@ -1,8 +1,8 @@
 # estishi87.github.io
 
-Hello! 👋<br >
-Here there are some of my coding projects😁. <br >
-I'm a begginer web developer and would like to learn more and would love to be a great web developer in the near future and to get more experiance🤖.<br >
+## Hello! 👋<br >
+### Here there are some of my coding projects😁. <br >
+#### I'm a begginer web developer and would like to learn more and would love to be a great web developer in the near future and to get more experiance🤖.<br >
 I have always been interested in technology and how it can be use to solve problems💫.<br >
 I find it really amazing that this written words can automate and change so many things that can make our lives easier! 🦾<br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻.<br >
@@ -14,5 +14,5 @@ I am excited to continue learning more about coding and am looking forward to ap
 
 Hope you like it! 🙌🏻
 
-Esti🎀<br />
+# Esti🎀<br />
 https://estishi87.github.io/EstiShi/#
