@@ -3,8 +3,8 @@
 Hello! 👋<br >
 Here there are some of my coding projects😁. <br >
 I'm a begginer web developer and would like to learn more and would love to be a great web developer in the near future and to get more experiance🤖.<br >
-I have always been interested in technology and how it can be used to solve problems💫.<br >
-I find it really amazing that this written words can automate so many things that can makes our lives easier! 🦾<br >
+I have always been interested in technology and how it can be use to solve problems💫.<br >
+I find it really amazing that this written words can automate and change so many things that can make our lives easier! 🦾<br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻.<br >
 I was tasked with creating a program that would automate some of the financial reporting processes🕵️‍♀️.<br >
 I found the process of coding to be very rewarding and enjoyed the challenge of solving problems through code🔀.<br >
