@@ -1,8 +1,13 @@
-# estishi87.github.io
+# estishi87.github.io 
+<!-- PIC --> <div align="center">
+  <a href="https://estishi87.github.io/EstiShi/">
+    <img src="images/github.svg" alt="Logo" width="80" height="80">
+  </a>
+
 
 ## Hello! 👋<br >
-### Here there are some of my coding projects😁. <br >
-#### I'm a begginer web developer and would like to learn more and would love to be a great web developer in the near future and to get more experiance🤖.<br >
+  ### Here there are some of my coding projects😁. <br ></div>
+#### I'm a begginer web developer and would like to learn more and would love to be a great web developer in the near future and to get more experiance🤖.<br > 
 I have always been interested in technology and how it can be use to solve problems💫.<br >
 When I'm diply thinking about it, I find it really amazing that this written words can automate and change so many things that can make our lives easier! 🦾<br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻.<br >
@@ -15,4 +20,8 @@ I am excited to continue learning more about coding and am looking forward to ap
 Hope you like it! 🙌🏻
 
 # Esti🎀<br />
+<!-- PIC --> <div align="left">
+  <a href="https://estishi87.github.io/EstiShi/">
+    <img src="images/Esti.jpeg" alt="Logo" width="80" height="80">
+  </a> <br >
 https://estishi87.github.io/EstiShi/#
