@@ -117,16 +117,14 @@ nav ul li a:hover {
   border-radius: 40px;
 }
 
-/* Column container */
+/* Column container  (left and right sides)*/
 .row {
   display: flex;
   flex-wrap: wrap;
 }
 
-/* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  /*to try add Hexagon here*/
   flex: 10%;
   background-color: #a0d7f0;
   padding: 10px;
@@ -134,10 +132,16 @@ nav ul li a:hover {
   size: 2px;
   background: linear-gradient(to right, rgb(103, 209, 228), #e5e6f7);
 }
+.side:hover {
+  opacity: 0.85;
+  transform: scale(0.98);
+  max-width: 50%;
+  border-radius: 1000px;
+}
+
 .inside {
   flex: 10%;
-
-  padding: 10px;
+  padding: 15px;
   border-radius: 10000px;
 }
 img {
@@ -152,13 +156,14 @@ img {
 }
 
 img:hover {
+  opacity: 0.85;
   transform: scale(0.9);
   border-radius: 110px;
   max-width: 70%;
   border-radius: 1000px;
 }
 
-/* Main column */
+/* Main column - right side */
 .main {
   display: flex;
   padding: 50px;
@@ -195,19 +200,9 @@ img:hover {
     url("https://cdn.pixabay.com/photo/2015/11/17/18/59/architecture-1048092_640.jpg"),
     #e5e6f7
   );
-
-  div {
-    /* background-image: url("https://cdn.pixabay.com/photo/2015/11/17/18/59/architecture-1048092_640.jpg");
-          margin: 60px;
-          background-color: #aaa;
-          width: 20%;
-          padding: 990px;
-          border-radius: 100px 20px 50px 10px;
-          opacity: 0.4; */
-  }
 }
 
-/* Fake image, just for this example */
+/* images */
 .myimg {
   background-color: #eead63;
   width: 90%;
@@ -237,6 +232,8 @@ img:hover {
   color: #c59c44;
   border: none;
 }
+
+/* Hello section and Passion section */
 .lower {
   border-radius: 60px;
   padding: 25px;
@@ -261,6 +258,8 @@ img:hover {
 .lower:hover {
   transform: scale(1.05);
 }
+
+/* Educadional section and My coding projects section*/
 .lower2 {
   display: flex;
   border-radius: 60px;
