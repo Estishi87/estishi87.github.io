@@ -20,7 +20,7 @@ nav {
   background: linear-gradient(to right, #8868c2, rgb(103, 209, 228), #e5e6f7);
 }
 
-.logo {
+.githubLogo {
   width: 42px;
   margin-left: 30px;
   padding-top: 5px;
@@ -78,7 +78,7 @@ nav ul li a:hover {
 }
 
 /* picture of HTML CSS JS */
-.container .logo {
+.container .githubLogo {
   margin-right: 10px;
   margin-bottom: 600px;
   max-width: 10%;
@@ -283,6 +283,65 @@ img:hover {
 
 .lower2:hover {
   transform: scale(1.05);
+}
+.image-grid {
+  display: flex;
+  border-radius: 60px;
+  padding: 25px;
+  margin: 0px 0px 0px 30px;
+  text-align: center;
+  background-image: url(images/bright2.jpg);
+  background-size: cover;
+  background-position: center;
+  gap: 16px;
+  --num-cols: 4;
+  --row-height: 300px;
+
+  box-sizing: border-box;
+  padding: var(--gap);
+
+  display: grid;
+  grid-template-columns: repeat(var(--num-cols), 1fr);
+  grid-auto-rows: var(--row-height);
+  gap: var(--gap);
+}
+
+.h3 {
+  text-align: center;
+}
+.image-grid > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-grid-col-2 {
+  grid-column: span 2;
+}
+
+.image-grid-row-2 {
+  grid-row: span 2;
+}
+
+.image-grid img {
+  margin: 660px;
+  padding: 10px;
+  margin-bottom: 200px;
+  margin: 0 auto;
+  max-width: 70%;
+  border-radius: 10px;
+  border: white solid 9px;
+  cursor: pointer;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+}
+
+.image-grid img :hover {
+  opacity: 0.85;
+  transform: scale(0.9);
+  border-radius: 20px;
+  max-width: 70%;
+  border-radius: 1000px;
 }
 
 /* Footer */
