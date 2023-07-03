@@ -35,8 +35,8 @@ Hope you like it! 🙌🏻
 ## My projects:<br ></div>
 
 📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game is inspired from the old PacMan game. I designed a new look for the game with a fresh style and characters, have a look!🎮<br >
-📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - ⓣic ⓣac ⓣoe is my first game which I love and it's simply fun ❌🟡 <br >
-📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game based on PacMan game but I have changed it and did all grid and players myself🎮<br >
-📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game based on PacMan game but I have changed it and did all grid and players myself🎮<br >
+📂 [EstiShi](https://estishi87.github.io/EstiShi/) - My webside, which show all of my work and my proccess through this learing journey, designed my own style and a bit about myself <br >
+📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - ⓣic ⓣac ⓣoe is my first game which I love and it's simply fun ❎🔴 <br >
+📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An amazing animation I have learnt from a toturial of Franks laboratory, which I inspire from and practicing to improve my JavaScript skills👩‍💻<br >
 📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a baby shower if you are interested 😅
 This was my attempt to design and style a webpage 🎨<br >
