@@ -261,7 +261,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //what happens when you eat a donut
   function donutEaten() {
     if (squares[lisaCurrentIndex].classList.contains("donut")) {
-      score += 10;
+      score += 15;
       scoreDisplay.innerHTML = score;
       simpsons.forEach((simpson) => (simpson.isHappy = true));
       setTimeout(unHappySimpsons, 10000);
@@ -375,7 +375,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   //check for a win
   function checkForWin() {
-    if (score === 100) {
+    if (score >= 100) {
       simpsons.forEach((simpson) => clearInterval(simpson.timerId));
       document.removeEventListener("keyup", moveLisa);
       scoreDisplay.innerHTML = "WOW YOU WON! with a score of: " + score;
