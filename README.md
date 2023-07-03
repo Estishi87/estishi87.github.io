@@ -29,14 +29,14 @@ Hope you like it! 🙌🏻
 <br >
 <!-- PIC --> <div align="center">
   <a href="https://estishi87.github.io/EstiShi/">
-    <img src="images/folder-open.svg" alt="Logo" width="80" height="80" background-color="Bleu">
+    <img src="images/folder-open.svg" alt="Logo" width="80" height="80">
   </a> <br >
   
 ## My projects:<br ></div>
 
-📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - My game is inspired from the old PacMan game. I designed a new look for the game with a fresh style and characters, have a look!🎮<br >
-📂 [EstiShi](https://estishi87.github.io/EstiShi/) - My webside, which show all of my work and my proccess through this learing journey, designed my own style and a bit about myself <br >
-📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - ⓣic ⓣac ⓣoe is my first game which I love and it's simply fun ❎🔴 <br >
-📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An amazing animation I have learnt from a toturial of Franks laboratory, which I inspire from and practicing to improve my JavaScript skills👩‍💻<br >
-📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a baby shower if you are interested 😅
+📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - **My game** is inspired from the old PacMan game. I designed a new look for the game with a fresh style and characters, have a look!🎮<br >
+📂 [EstiShi](https://estishi87.github.io/EstiShi/) - **My webside**, which show all of my work and my proccess through this learing journey, designed my own style and a bit about myself <br >
+📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ic** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ac** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**oe** is my first game, which I love and it's simply fun! ❎🔴 <br >
+📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of Franks laboratory, which I inspire from and practicing to improve my JavaScript skills👩‍💻<br >
+📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a **Baby shower** if you are interested 😅
 This was my attempt to design and style a webpage 🎨<br >
