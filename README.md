@@ -1,8 +1,11 @@
 # estishi87.github.io 
-<!-- GITHUB ICON --> <div align="center">
+<!-- GITHUB ICON -->
+<div align="center">
   <a href="https://estishi87.github.io/EstiShi/" target="_blank">
     <img src="images/github.svg" alt="Logo" width="80" height="80">
   </a>
+</div>
+
 
 
 ## Hello! 👋<br >
