@@ -12,7 +12,7 @@
   height: 8px;
 }
 
-.grid1 {
+.gridGame {
   display: flex;
   flex-wrap: wrap;
   width: 1000px;
@@ -20,7 +20,7 @@
   border: orange;
 }
 
-.grid1 div {
+.gridGame div {
   width: 70px;
   height: 70px;
 }
@@ -44,7 +44,7 @@
   background-color: #bae5d5;
   border: 0px;
 }
-.pac-dot {
+.icecream {
   background-image: url("images/icecream1.jpg");
 }
 
@@ -52,73 +52,73 @@
   background-color: mediumslateblue;
 }
 
-.power-pellet {
+.donut {
   background-image: url("images/donut1.jpg");
 }
 
-.blinky {
+.maggie {
   background-image: url("images/angrybaby1.png");
 }
 
-.blinky.scared-ghost {
+.maggie.happy-simpson {
   background-image: url(images/happybaby1.jpg);
 }
-.pinky {
+.homer {
   background-image: url("images/angrydad1.png");
 }
 
-.pinky.scared-ghost {
+.homer.happy-simpson {
   background-image: url("images/happyDad1.png");
 }
 
-.inky {
+.bart {
   background-image: url("images/angrybrother1.png");
 }
 
-.inky.scared-ghost {
+.bart.happy-simpson {
   background-image: url("images/happyBrother1.png");
   border-radius: 10px;
   border-color: #7144c5;
 }
 
-.clyde {
+.marge {
   background-image: url("images/angrymum1.png");
 }
 
-.clyde.scared-ghost {
+.marge.happy-simpson {
   background-image: url("images/happyMum1.jpg");
   border-radius: 10px;
   border-color: #7144c5;
 }
 
-.scared-ghost {
+.happy-simpson {
   border: 10px;
   border-radius: 10px;
   border-color: #7144c5;
 }
 
-.pac-man {
+.lisa {
   background-image: url("images/lisa3.png");
   border-radius: 1px;
 }
 
-.pac-man-left {
+.lisa-left {
   background-image: url("images/lisaR1.webp");
   border-radius: 1px;
   transform: scaleX(-1);
 }
 
-.pac-man-right {
+.lisa-right {
   background-image: url("images/lisaR1.webp");
   border-radius: 1px;
 }
 
-.pac-man-up {
+.lisa-up {
   background-image: url("images/lisaR1.webp");
   border-radius: 1px;
 }
 
-.pac-man-down {
+.lisa-down {
   background-image: url("images/lisaR1.webp");
   border-radius: 1px;
 }
@@ -132,7 +132,6 @@
   padding: 30px;
   width: 150px;
   opacity: 0.6;
-  :30px ;
   color: white;
   width: 200px;
   height: 200px;
