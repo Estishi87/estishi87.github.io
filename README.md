@@ -9,7 +9,7 @@
   ### Here there are some of my coding projects😁. <br ></div>
 #### I'm a begginer web developer. I would like to progress in this area, to build up my set of skills and to become a great web developer.<br > 
 I have always been interested in technology and how it can be used to solve problems💫.<br >
-Thinking about programming, I find it really amazing that this written words can automate processes and change so many things that can make our lives easier! 🦾<br >
+Thinking about programming, I find it really amazing that this written words can automate processes and change so many things that can make our lifes easier! 🦾<br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻.<br >
 I was tasked with creating a program that would automate some of the financial reporting processes🕵️‍♀️.<br >
 I find the process of coding to be very rewarding and I enjoy the challenge of solving problems through code🔀.<br >
