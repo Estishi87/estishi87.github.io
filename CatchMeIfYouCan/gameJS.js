@@ -1,3 +1,5 @@
+//-------PART ONE----MOVING LETTERS ON TOP OF SCREEN----------------------------------------
+
 document.addEventListener("DOMContentLoaded", () => {
   const grid = document.querySelector(".grid");
   let colors = ["one", "two", "three", "zero"];
@@ -49,14 +51,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const squares = [];
 
-  //   // legend:
-  //   // 0= dots
-  //   // 1= wall
-  //   // 2= gosts
-  //   // 3= power pellet
-  //   // 4= empty
+  // legend:
+  // 0= empty
+  // 1= color
+  // 2= color
+  // 3= color
 
-  //draw the letters and render it
+  //draw the letters
   function createBoard() {
     for (let i = 0; i < layout.length; i++) {
       const square = document.createElement("div");
@@ -94,15 +95,12 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(changeNum, 500);
 });
 
-//-----------------------------------PART 2--------------------------------------------
+//-----------------------------------PART 2-THE GAME-------------------------------------------
 //****************************************************************************************************** */
 //&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-// loadRoot("https://i.imgur.com/");
-// loadSprite("wall"), "HnXu35m.jpg";
-
 document.addEventListener("DOMContentLoaded", () => {
-  const grid1 = document.querySelector(".grid1");
+  const gridGame = document.querySelector(".gridGame");
   const scoreDisplay = document.getElementById("score");
   const width = 14; //28 X 28 = 784 squares
   let score = 0;
@@ -119,30 +117,29 @@ document.addEventListener("DOMContentLoaded", () => {
   const squares = [];
 
   // legend:
-  // 0= dots
+  // 0= ice cream
   // 1= wall
-  // 2= gosts
-  // 3= power pellet
-  // 4= empty
+  // 2= family
+  // 3= donut
+  // 4= empty space
 
-  //draw the grid and render it
+  //draw the grid
   function createBoard() {
     for (let i = 0; i < layout.length; i++) {
       const square = document.createElement("div");
-      grid1.appendChild(square);
+      gridGame.appendChild(square);
       squares.push(square);
 
       //add layout to the board
       if (layout[i] === 0) {
-        squares[i].classList.add("pac-dot");
+        squares[i].classList.add("icecream");
       } else if (layout[i] === 1) {
         squares[i].classList.add("wall");
-        squares[i].colors = "https://imgur.com/HnXu35m";
         // document.querySelector("#wall").classList.add("wall");
       } else if (layout[i] === 2) {
-        squares[i].classList.add("ghost-lair");
+        squares[i].classList.add("family");
       } else if (layout[i] === 3) {
-        squares[i].classList.add("power-pellet");
+        squares[i].classList.add("donut");
       }
     }
   }
@@ -173,64 +170,64 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  //starting posion of pac-man
-  let pacmanCurrentIndex = 77;
-  squares[pacmanCurrentIndex].classList.add("pac-man");
+  //starting posion of Lisa
+  let lisaCurrentIndex = 77;
+  squares[lisaCurrentIndex].classList.add("lisa");
 
-  function removePacman() {
-    squares[pacmanCurrentIndex].classList.remove("pac-man");
-    squares[pacmanCurrentIndex].classList.remove("pac-man-right");
-    squares[pacmanCurrentIndex].classList.remove("pac-man-left");
-    squares[pacmanCurrentIndex].classList.remove("pac-man-down");
-    squares[pacmanCurrentIndex].classList.remove("pac-man-up");
+  function removeLisa() {
+    squares[lisaCurrentIndex].classList.remove("lisa");
+    squares[lisaCurrentIndex].classList.remove("lisa-right");
+    squares[lisaCurrentIndex].classList.remove("lisa-left");
+    squares[lisaCurrentIndex].classList.remove("lisa-down");
+    squares[lisaCurrentIndex].classList.remove("lisa-up");
   }
 
-  //move pac-man
-  function movePacman(e) {
-    removePacman();
+  //move lisa
+  function moveLisa(e) {
+    removeLisa();
     switch (e.keyCode) {
       case 37: //left
         if (
-          pacmanCurrentIndex % width !== 0 &&
-          !squares[pacmanCurrentIndex - 1].classList.contains("wall")
-          // !squares[pacmanCurrentIndex - 1].classList.contains("ghost-lair")
+          lisaCurrentIndex % width !== 0 &&
+          !squares[lisaCurrentIndex - 1].classList.contains("wall")
+          // !squares[lisaCurrentIndex - 1].classList.contains("family")
         )
-          pacmanCurrentIndex -= 1;
-        squares[pacmanCurrentIndex].classList.add("pac-man");
-        squares[pacmanCurrentIndex].classList.add("pac-man-left");
+          lisaCurrentIndex -= 1;
+        squares[lisaCurrentIndex].classList.add("lisa");
+        squares[lisaCurrentIndex].classList.add("lisa-left");
         break;
       case 38: //up
         if (
-          pacmanCurrentIndex - width >= 0 &&
-          !squares[pacmanCurrentIndex - width].classList.contains("wall")
-          // !squares[pacmanCurrentIndex - width].classList.contains("ghost-lair")
+          lisaCurrentIndex - width >= 0 &&
+          !squares[lisaCurrentIndex - width].classList.contains("wall")
+          // !squares[lisaCurrentIndex - width].classList.contains("family")
         )
-          pacmanCurrentIndex -= width;
-        squares[pacmanCurrentIndex].classList.add("pac-man");
-        squares[pacmanCurrentIndex].classList.add("pac-man-up");
+          lisaCurrentIndex -= width;
+        squares[lisaCurrentIndex].classList.add("lisa");
+        squares[lisaCurrentIndex].classList.add("lisa-up");
         break;
       case 39: //right
         if (
-          pacmanCurrentIndex % width < width - 1 &&
-          !squares[pacmanCurrentIndex + 1].classList.contains("wall")
-          // !squares[pacmanCurrentIndex + 1].classList.contains("ghost-lair")
+          lisaCurrentIndex % width < width - 1 &&
+          !squares[lisaCurrentIndex + 1].classList.contains("wall")
+          // !squares[lisaCurrentIndex + 1].classList.contains("family")
         )
-          pacmanCurrentIndex += 1;
-        squares[pacmanCurrentIndex].classList.add("pac-man");
-        squares[pacmanCurrentIndex].classList.add("pac-man-right");
+          lisaCurrentIndex += 1;
+        squares[lisaCurrentIndex].classList.add("lisa");
+        squares[lisaCurrentIndex].classList.add("lisa-right");
         break;
       case 40: //down
         if (
-          pacmanCurrentIndex + width < width * width &&
-          !squares[pacmanCurrentIndex + width].classList.contains("wall")
-          // !squares[pacmanCurrentIndex + width].classList.contains("ghost-lair")
+          lisaCurrentIndex + width < width * width &&
+          !squares[lisaCurrentIndex + width].classList.contains("wall")
+          // !squares[lisaCurrentIndex + width].classList.contains("family")
         )
-          pacmanCurrentIndex += width;
-        squares[pacmanCurrentIndex].classList.add("pac-man");
-        squares[pacmanCurrentIndex].classList.add("pac-man-down");
+          lisaCurrentIndex += width;
+        squares[lisaCurrentIndex].classList.add("lisa");
+        squares[lisaCurrentIndex].classList.add("lisa-down");
         break;
     }
-    squares[pacmanCurrentIndex].classList.add("pac-man");
+    squares[lisaCurrentIndex].classList.add("lisa");
 
     //add touch screen
     const myButton = document.getElementById("myButton");
@@ -245,121 +242,129 @@ document.addEventListener("DOMContentLoaded", () => {
       false
     );
 
-    pacDotEaten();
-    powerPelletEaten();
+    icecreamEaten();
+    donutEaten();
     checkForGameOver();
     checkForWin();
   }
-  document.addEventListener("keyup", movePacman);
+  document.addEventListener("keyup", moveLisa);
 
-  //what happens when Pac-man eats a pac-dot:
-  function pacDotEaten() {
-    if (squares[pacmanCurrentIndex].classList.contains("pac-dot")) {
+  //what happens when you eat a icecream:
+  function icecreamEaten() {
+    if (squares[lisaCurrentIndex].classList.contains("icecream")) {
       score += 10;
       scoreDisplay.innerHTML = score;
-      squares[pacmanCurrentIndex].classList.remove("pac-dot");
+      squares[lisaCurrentIndex].classList.remove("icecream");
     }
   }
 
-  //what happens when you eat a power-pellet
-  function powerPelletEaten() {
-    if (squares[pacmanCurrentIndex].classList.contains("power-pellet")) {
+  //what happens when you eat a donut
+  function donutEaten() {
+    if (squares[lisaCurrentIndex].classList.contains("donut")) {
       score += 15;
-      ghosts.forEach((ghost) => (ghost.isScared = true));
-      setTimeout(unScareGhosts, 10000);
-      squares[pacmanCurrentIndex].classList.remove("power-pellet");
+      scoreDisplay.innerHTML = score;
+      simpsons.forEach((simpson) => (simpson.isHappy = true));
+      setTimeout(unHappySimpsons, 10000);
+      squares[lisaCurrentIndex].classList.remove("donut");
     }
   }
 
-  //make the ghosts stop appearing as aquamarine
-  function unScareGhosts() {
-    ghosts.forEach((ghost) => (ghost.isScared = false));
+  //make the simpsons stop being happy and attack again
+  function unHappySimpsons() {
+    simpsons.forEach((simpson) => (simpson.isHappy = false));
   }
 
-  //create Ghost tamplate
-  class Ghost {
+  //create simpsons tamplate
+  class Simpson {
     constructor(className, startIndex, speed) {
       this.className = className;
       this.startIndex = startIndex;
       this.speed = speed;
       this.currentIndex = startIndex;
       this.timerId = NaN;
-      this.isScared = false;
+      this.isHappy = false;
     }
   }
 
-  ghosts = [
-    new Ghost("blinky", 15, 250),
-    new Ghost("pinky", 36, 200),
-    new Ghost("inky", 82, 300),
-    new Ghost("clyde", 86, 150),
+  //all the simpsons
+  simpsons = [
+    new Simpson("maggie", 15, 250),
+    new Simpson("homer", 36, 200),
+    new Simpson("bart", 82, 300),
+    new Simpson("marge", 86, 150),
   ];
 
-  //draw my ghosts onto the grid
-  ghosts.forEach((ghost) => {
-    squares[ghost.currentIndex].classList.add(ghost.className);
-    squares[ghost.currentIndex].classList.add("ghost");
+  //draw my simpsons onto the grid
+  simpsons.forEach((simpson) => {
+    squares[simpson.currentIndex].classList.add(simpson.className);
+    squares[simpson.currentIndex].classList.add("simpson");
   });
 
-  //move the ghosts rendomly
-  ghosts.forEach((ghost) => moveGhost(ghost));
+  //move the simpsons rendomly
+  simpsons.forEach((simpson) => moveSimpson(simpson));
 
-  //the function to move the ghosts
-  function moveGhost(ghost) {
+  //the function to move the simpsons
+  function moveSimpson(simpson) {
     const directions = [-1, +1, width, -width];
     let direction = directions[Math.floor(Math.random() * directions.length)];
-    ghost.timerId = setInterval(function () {
-      //if the next squeres your ghost is going to go in does NOT contain a wall and a ghost, you can go there
+    simpson.timerId = setInterval(function () {
+      //if the next squeres your simpson is going to go in does NOT contain a wall and a simpson, you can go there
       if (
-        !squares[ghost.currentIndex + direction].classList.contains("wall") &&
-        !squares[ghost.currentIndex + direction].classList.contains("ghost")
+        !squares[simpson.currentIndex + direction].classList.contains("wall") &&
+        !squares[simpson.currentIndex + direction].classList.contains("simpson")
       ) {
         //you can go there
-        //remove all ghost related classes
-        squares[ghost.currentIndex].classList.remove(
-          ghost.className,
-          "ghost",
-          "scared-ghost"
+        //remove all simpsons related classes
+        squares[simpson.currentIndex].classList.remove(simpson.className);
+        squares[simpson.currentIndex].classList.remove(
+          "simpson",
+          "happy-simpson"
         );
         //change the currentIndex to the new safe square
-        ghost.currentIndex += direction;
-        //redraw the ghost in the new safe place
-        squares[ghost.currentIndex].classList.add(ghost.className, "ghost");
+        simpson.currentIndex += direction;
+        //redraw the simpson in the new safe place
+        squares[simpson.currentIndex].classList.add(
+          simpson.className,
+          "simpson"
+        );
       }
       //else find new direction to try
       else
         direction = directions[Math.floor(Math.random() * directions.length)];
 
-      //if the ghost is currently scared
-      if (ghost.isScared) {
-        squares[ghost.currentIndex].classList.add("scared-ghost");
+      //if the simpson is currently happy
+      if (simpson.isHappy) {
+        squares[simpson.currentIndex].classList.add("happy-simpson");
       }
-      //if the ghost is scared and pacman runs into it (eat it)
+      //if the simpson is happy and lisa runs into it
       if (
-        ghost.isScared &&
-        squares[ghost.currentIndex].classList.contains("pac-man")
+        simpson.isHappy &&
+        squares[simpson.currentIndex].classList.contains("lisa")
       ) {
-        squares[ghost.currentIndex].classList.remove(
-          ghost.className,
-          "ghost",
-          "scared-ghost"
+        squares[simpson.currentIndex].classList.remove(
+          simpson.className,
+          "simpson",
+          "happy-simpson"
         );
-        ghost.currentIndex = ghost.startIndex;
+        simpson.currentIndex = simpson.startIndex;
         score += 10;
-        squares[ghost.currentIndex].classList.add(ghost.className, "ghost");
+        squares[simpson.currentIndex].classList.add(
+          simpson.className,
+          "simpson"
+        );
       }
       checkForGameOver();
-    }, ghost.speed);
+    }, simpson.speed);
   }
 
   //check for game over
   function checkForGameOver() {
     if (
-      squares[pacmanCurrentIndex].classList.contains("ghost") &&
-      !squares[pacmanCurrentIndex].classList.contains("scared-ghost")
+      squares[lisaCurrentIndex].classList.contains("simpson") &&
+      !squares[lisaCurrentIndex].classList.contains("happy-simpson")
     ) {
-      ghosts.forEach((ghost) => clearInterval(ghost.timerId));
-      document.removeEventListener("keyup", movePacman);
+      simpsons.forEach((simpson) => clearInterval(simpson.timerId));
+      document.removeEventListener("keyup", moveLisa);
       // setTimeout(function () {
       //   alert("Game Over!");
       // }, 500);
@@ -370,9 +375,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   //check for a win
   function checkForWin() {
-    if (score === 100) {
-      ghosts.forEach((ghost) => clearInterval(ghost.timerId));
-      document.removeEventListener("keyup", movePacman);
+    if (score >= 100) {
+      simpsons.forEach((simpson) => clearInterval(simpson.timerId));
+      document.removeEventListener("keyup", moveLisa);
       scoreDisplay.innerHTML = "WOW YOU WON! with a score of: " + score;
     }
   }
