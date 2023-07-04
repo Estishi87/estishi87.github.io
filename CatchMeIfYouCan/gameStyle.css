@@ -31,7 +31,7 @@
 }
 
 .one {
-  background-color: #f3e562;
+  background-color: #73bde0;
   border: 0px;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .three {
-  background-color: #bae5d5;
+  background-color: mediumslateblue;
   border: 0px;
 }
 .icecream {
@@ -125,15 +125,10 @@
 
 .write {
   font-family: cursive;
-  font-size: 23px;
+  font-size: 26px;
   text-align: center;
-  background-image: url(images/pink3.jpg);
-  background-size: cover;
-  background-position: center;
   width: 90%;
-  padding: 10px;
   width: 150px;
-  color: white;
   width: 200px;
   height: 200px;
   display: flex;
@@ -143,6 +138,19 @@
   justify-content: center;
   align-items: center;
   cursor: pointer;
+  background: white;
+  -webkit-background-clip: text;
+  background-size: contain;
+  background-image: url(images/pink3.jpg);
+  color: transparent;
+  transition: all 800ms ease-in-out;
+}
+.write:hover {
+  font-size: 13px;
+  -webkit-background-clip: text;
+  background-size: contain;
+  background-image: url(images/pink3.jpg);
+  color: transparent;
 }
 
 .row {
@@ -155,7 +163,11 @@
   text-align: left;
   background-color: white;
   margin-top: 117px;
-  color: #7144c5;
+  background: white;
+  -webkit-background-clip: text;
+  background-size: contain;
+  background-image: url(images/pink3.jpg);
+  color: transparent;
   width: 600px;
   height: 300px;
   display: block;
@@ -168,13 +180,12 @@ button {
   font-weight: 900;
   font-family: cursive;
   width: 40%;
-  margin-left: 20%;
+  margin-left: 18%;
   background-image: url(images/pink3.jpg);
   background-size: cover;
   background-position: center;
   color: #ffffff;
-  font-size: 21px;
-  padding: 15px 20px;
+  font-size: 36px;
   border-color: white;
   border-radius: 70px;
   transition: all 800ms ease-in-out;
@@ -183,7 +194,6 @@ button:hover {
   cursor: pointer;
   background: white;
   -webkit-background-clip: text;
-  background-clip: text;
   background-size: contain;
   background-image: url(images/pink3.jpg);
   color: transparent;
