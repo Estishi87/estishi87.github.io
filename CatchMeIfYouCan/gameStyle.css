@@ -144,10 +144,12 @@
   background-image: url(images/pink3.jpg);
   color: transparent;
   transition: all 800ms ease-in-out;
+  border: #f3bdd8 solid 9px;
 }
 .write:hover {
-  font-size: 13px;
-  -webkit-background-clip: text;
+  padding: 17 px;
+  font-size: 16px;
+  text-align: center;
   background-size: contain;
   background-image: url(images/pink3.jpg);
   color: transparent;
