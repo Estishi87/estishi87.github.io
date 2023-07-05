@@ -1,156 +1,119 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Website</title>
+    <title>Ester Shimony</title>
+    <link rel="icon" type="image/x-icon" href="images/fav1.svg" />
+    <!-- box icons -->
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
     <link rel="shortcut icon" type="MyFav/jpg" href="EstiShi.html" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
-    <div id="header">
+    <!---------------------------------- HEADER (NAVBAR) -------------------------------------------->
+    <header class="header">
+      <img
+        src="images/githubWhite.svg"
+        class="githubLogo"
+        onclick="window.open('https://github.com/Estishi87/estishi87.github.io')"
+      />
+      <i class="bx bx-menu" id="menu-icon"></i>
 
-    <!------------------------- Top Navigation Bar ------------------->
-    <nav>
-          <img src="images/githubWhite.svg" class="githubLogo" onclick="window.open('https://github.com/Estishi87/estishi87.github.io')"/>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </nav>
-    
-    <!-- Header -->
-    <div class="container">
-      <h1>Ester Shimony</h1>
-            <p><strong>a begginer web developer </strong></p>
-      
-    </div>
-   
-    <!-- The flexible grid (content) -->
-    <div class="row">
+      <nav class="navbar">
+        <a href="#home" class="active">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <!--------------------- HOME ------1 FIRST SECSION -------------------------------------->
+
+    <!---------------------------- CONTAINER: BOTTOM HEADER WITH MY NAME ---------------------------------------->
+    <section class="home" id="home">
+      <div class="container">
+        <h1>Ester Shimony</h1>
+        <p><strong>a begginer web developer </strong></p>
+      </div>
       <!-- left side with my picture-->
       <div class="side">
-        <h2>About Me</h2>
-        <h5>
-          <div class="inside"></div>
-          <a href="https://www.linkedin.com/in/ester-shimony/" target="_blank">
-            <img
-              src="https://media.licdn.com/dms/image/D4E03AQHkIbXMRRDG9A/profile-displayphoto-shrink_800_800/0/1672503096198?e=1690416000&v=beta&t=iF-bFRixy54XAAM2wUt7EL02tNWjYu_O7oA9bBXImZE"
-            />
-          </a>
-        </h5>
+        <a href="https://www.linkedin.com/in/ester-shimony/" target="_blank">
+          <img
+            src="https://media.licdn.com/dms/image/D4E03AQHkIbXMRRDG9A/profile-displayphoto-shrink_800_800/0/1672503096198?e=1690416000&v=beta&t=iF-bFRixy54XAAM2wUt7EL02tNWjYu_O7oA9bBXImZE"
+          />
+        </a>
       </div>
 
       <!--right side with my progress-->
       <div class="main">
-        <div class="myimg" onclick="window.open('https://github.com/Estishi87/estishi87.github.io')"> 
-  <img src="images/github.svg" onclick="window.open('https://github.com/Estishi87/estishi87.github.io')"/>
-  MY GITHUB
-</div>
+        <div
+          class="myimg"
+          onclick="window.open('https://github.com/Estishi87/estishi87.github.io')"
+        >
+          <img
+            src="images/github.svg"
+            onclick="window.open('https://github.com/Estishi87/estishi87.github.io')"
+          />
+          MY GITHUB
+        </div>
 
         <p></p>
-        <div class="myimg" onclick="window.open('https://www.codewars.com/users/Estishi/badges/large')">
-  <img src="images/codewars1.svg" onclick="window.open('https://www.codewars.com/users/Estishi/badges/large')"/>
-  MY CODEWARS
-</div>
+        <div
+          class="myimg"
+          onclick="window.open('https://www.codewars.com/users/Estishi/badges/large')"
+        >
+          <img
+            src="images/codewars1.svg"
+            onclick="window.open('https://www.codewars.com/users/Estishi/badges/large')"
+          />
+          MY CODEWARS
+        </div>
 
-         <div class="myimg" onclick="window.open('https://estishi87.github.io/CatchMeIfYouCan/')">
-  <img src="images/gamepad-solid.svg" onclick="window.open('https://estishi87.github.io/CatchMeIfYouCan/')"/>
-  MY GAME
-</div>
-    </div>
-    <div class="lower">
-      <h1>Hello! 👋</h1>
-      <p></p>
-      <p>
-        My name is Esti🎀.
-        <br />
-        I am currently on maternity leave 👶🍼 and studying for Founder and
-        Coders coding course📖🎓.
-        <br />I am very passionate about coding and have always been interested
-        in it and I'm glad to have the opprtunity to study! 🖤💙. <br />I live
-        in London 💂🏻‍♂️ 👑 with my family and have two daughters👧👧 and a
-        husband🤵.<br />I am part of a group of Cachibol and I love it!🏐🤾‍♀️ and
-        practicing Pilates💪 and yoga🧘. I also love to meditate🙌 and have
-        recently started to enjoy finding fast cooking solutions🧑🏼‍🍳🍽️ and a
-        healthy lifestyle 🌾 for my family. <br />I am a coffee lover☕ and
-        enjoy managing my time⏰🕕 now that I am home on maternity leave🏠.
-      </p>
-      <p></p>
-    </div>
-     <h3>My Cachibol team:</h3>
-     <h1> </h1>
+        <div
+          class="myimg"
+          onclick="window.open('https://estishi87.github.io/CatchMeIfYouCan/')"
+        >
+          <img
+            src="images/gamepad-solid.svg"
+            onclick="window.open('https://estishi87.github.io/CatchMeIfYouCan/')"
+          />
+          MY GAME
+        </div>
+      </div>
+    </section>
 
-    <div class="image-grid">
-<img class="image-grid-col-2 image-grid-row-2" src="images/CachibolHands.jpg" alt="architecture">
-    		<img src="images/CachibolGame2.jpg" alt="architecture">
-		<img src="images/CachibolGame1.jpg" alt="architecture">
-		<img src="images/CachibolTeam.jpg" alt="architecture">
-		<img src="images/CachibolSmile.jpg" alt="architecture">
-    
-    		<img src="images/CachibolGame.jpg" alt="architecture">
-
-    		<img src="images/CachibolGame3.jpg" alt="architecture">
-        <img class="image-grid-col-2 image-grid-row-2" src="images/CachibolLegs.jpg" alt="architecture">
-    		<img src="images/CachibolTeamGrass.jpg" alt="architecture">
-    		<img src="images/CachibolGame5.jpg" alt="architecture">
-
-        
-
-    </div>
-
-    <div class="lower">
-      <h3>My passion for coding👩‍💻</h3>
-
-      <p>
-        <br />
-        I have always been interested in technology and how it can be used to
-        solve problems.<br />
-        I was first introduced to coding when I was working on a project for my
-        previous job as an accountant💻. <br />I was tasked with creating a
-        program that would automate some of the financial reporting processes🕵️‍♀️.
-        <br />I found the process of coding to be very rewarding and enjoyed the
-        challenge of solving problems through code🔀. <br />Since then, I have
-        been exploring different coding languages and tools and have been
-        working on various coding projects in my free time🧐. <br />I find
-        coding to be a great way to express my creativity and enjoy the process
-        of building something from scratch🛠️. <br />I am excited to continue
-        learning more about coding and am looking forward to applying my skills
-        in a professional setting🏅🥉🥈🥇.
-      </p>
-    </div>
-
-    <div class="lower2">
-       <h3>Educational background and work experience🧑‍💻</h3>
-
-      <p>
-        <br />
-        I am an accountant with 6️⃣ years of experience working with small and
-        medium companies. <br />I have advanced experience preparing financial
-        reports📈 and managing communication with tax authorities🧾. <br />My
-        responsibilities also include writing monthly financial reports📉for
-        managers of various companies and preparation of payrolls and
-        paychecks📊. I have advanced IT skills working with several professional
-        audit systems together with excellent administration skills🏦. <br />
-        In addition, I have extensive experience working with people as part of
-        a team😃💁. <br />
-        I speak fluent Hebrew and English🌐. <br /><br />My key skills and
-        competencies include: <br />➡️Sales and purchase ledger (Sage 50)
-        <br />➡️Invoicing and payment processing (Sage 50/Online Banking System)
-        <br />➡️Bank, supplier, and customer reconciliations (Excel)
-        <br />➡️Database management and data entry (Excel VLOOKUP & PIVOT
-        TABLES/Access) <br />➡️Preparation of reports and presentations
-        (Word/PowerPoint)
-      </p>
-      
-    </div>
-
-    <!-- Footer -->
-    <div class="footer">
-      <h2>© Created by Esti 🎀</h2>
-    </div>
+    <!---------------- Hello! intredutcion about myself ----------------------->
+    <section class="about" id="about">
+      <div class="about-content">
+        <h3>Hello! 👋</h3>
+        <h4>My name is<span> Esti🎀</span></h4>
+        <h5>
+          <br />I’m a beginner web developer and I would like to progress in
+          this area to build up my set of skills and become a great web
+          developer.
+        </h5>
+        <p>
+          <br />
+          I find it really amazing that these written words can automate
+          processes and change so many things that can make our lives easier! 🦾
+          <br />
+          <br />I am excited to continue learning more about coding and I am
+          looking forward to applying my skills in a professional setting🏅.
+        </p>
+        <div class="social-media">
+          <a href="#"><i class="bx bxl-facebook"></i></a>
+          <a href="#"><i class="bx bxl-github"></i></a>
+          <a href="#"><i class="bx bxl-linkedin"></i></a>
+        </div>
+      </div>
+      <div class="about-img">
+        <img src="images/programmer.svg" alt="" />
+      </div>
+    </section>
   </body>
 </html>
