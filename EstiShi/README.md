@@ -5,7 +5,7 @@
 
 <!-- Donut PIC -->
 <div align="center">
-    <img src="images/HTMLCSSJS.png" width="80" height="80">
+    <img src="images/HTMLCSSJS.png" width="180" height="80">
   </a>
 
 
@@ -13,18 +13,20 @@
   
 
 ## Hello again! 👋<br > 
+## <p align="left">This web page created by me and inspired from many differents tetorials and web developer sites.<br > </p>
+  ## <p align="left">About</p>
 
-
-#### <p align="left">This web page created by me and inspired from many differents tetorials and web developer sites.<br > </p>
+#### <a> <img src="images/FAC.JPG" width="80" height="80">
+  </a> <p align="left">I created this project to apply for Founders and Coders Software Developer [Skills Bootcamp](https://www.foundersandcoders.com/learn/)<br > </p>
   ## <p align="left">About</p> 
 
 <p align="left">First I desined the main section itself and in the time I added the next sections.
-I have showed this web to my friends and everytime I asked for feedback, someone gave me another idea with made me improve this web.
-I've got to say that I really benefit the meet-ups and also some of the mentors and coleuges helped me and gave me some more ideas which really helps!
+I have showed this web to my friends and everytime I asked for feedback, someone gave me another idea, which made me improve this web.
+I've got to say that I really benefit from the meet-ups and also some of the mentors and coleuges helped me and gave me some more ideas which really helps!
   
 </div> 
 
-<p align="left">I have styled an infinate moving grid on the top of the webpage to make it stylish, I used the same method to create the game board:<p align="left">
+<p align="left">I have tried to make this web as uniqe as possible and played around with some different functions I have leart on my progress.<p align="left">
 <!-- Moving Letters Pic -->
 <div align="center">
     <img src="images/grid.JPG" alt="Logo" width="500" height="80">
