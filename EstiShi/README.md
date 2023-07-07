@@ -3,17 +3,13 @@
 # 🌐[My Web Page](https://estishi87.github.io/CatchMeIfYouCan/)🌐
 <br >
 
-<!-- Donut PIC -->
+<!--MAIN PIC -->
 <div align="center">
     <img src="images/HTMLCSSJS.png" width="180" height="80">
   </a>
 
-
-  
-  
-
 ## Hello again! 👋<br > 
-## <p align="left">This web page created by me and inspired from many differents tetorials and web developer sites.<br > </p>
+## <p align="left">This web page created by me and inspired from many different tetorials and web developer sites.<br > </p>
   ## <p align="left">About</p>
 
 #### <a> <img src="images/FAC.JPG" width="80" height="80">
