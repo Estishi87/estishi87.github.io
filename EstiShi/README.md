@@ -12,8 +12,10 @@
 ## <p align="left">This web page created by me and inspired from many different tetorials and web developer sites.<br > </p>
   ## <p align="left">About</p>
 
-#### <a> <img src="images/FAC.JPG" width="80" height="80">
-  </a> <p align="left">I created this project to apply for Founders and Coders Software Developer [Skills Bootcamp](https://www.foundersandcoders.com/learn/)<br > </p>
+<img src="images/FAC.JPG" alt="Logo" width="25" height="25">
+  </a> 
+  
+###  <p align="left">I created this project to apply for Founders and Coders Software Developer [Skills Bootcamp](https://www.foundersandcoders.com/learn/)<br > </p>
   ## <p align="left">About</p> 
 
 <p align="left">First I desined the main section itself and in the time I added the next sections.
@@ -30,10 +32,14 @@ I've got to say that I really benefit from the meet-ups and also some of the men
 
 ## Things to improve: <br >
 <div align="left">
-    <img src="images/icecream1.jpg" alt="Logo" width="25" height="25">
-  </a> I would like to add an arrows so then you can play this game on mobile phones! <br ><br >
-<img src="images/icecream1.jpg" alt="Logo" width="25" height="25">
-  </a> I wish to add the next level with a different map and maybe new characters after you win the first level :) <br >
+  <img src="images/fav2.svg" alt="Logo" width="25" height="25">
+  </a> I need to add animation which makes the picture on section "About" to flip around and shows text behind it. Next level will be to add different text each time you turn it and then I can add some nice and fun facts about coding and more reletive things! <br ><br >
+  <img src="images/fav2.svg" alt="Logo" width="25" height="25">
+  </a> Must have section of where I got insperation form <br ><br >
+    <img src="images/fav2.svg" alt="Logo" width="25" height="25">
+  </a> I would like to add section: my journey through this! <br ><br >
+<img src="images/fav2.svg" alt="Logo" width="25" height="25">
+  </a> I wish to add section about my hobbies and add some pictures about Cachiball team trainings that I'm part of and also about Pilatis training I'm taking part. Both of this hobbies, I'm part of group of mums which would like to improve their health and I'm really proud of it :) <br ><br >
 <br ><br >
 
 Hope you like it! 🙌🏻
