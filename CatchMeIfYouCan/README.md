@@ -6,13 +6,13 @@
     <img src="images/donut1.jpg" alt="Logo" width="80" height="80">
   </a>
 
-## Hello again! 👋<br >
+## Hello again! 👋<br > </div>
 
 #### This game inspired by the old PacMan game, I have changed the grid as my own map and styled all characters and designed it my own style.<br > 
 
 Things to improve: <br >
-I would like to add an arrows so then you can play this game on mobile phones! <br >
-I wish to add the next level with a different map and maybe new characters after you win the first level :) <br >
+* I would like to add an arrows so then you can play this game on mobile phones! <br >
+* I wish to add the next level with a different map and maybe new characters after you win the first level :) <br >
 <br ><br >
 
 Hope you like it! 🙌🏻
