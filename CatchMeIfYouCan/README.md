@@ -12,9 +12,10 @@
   
   
 
-## Hello again! 👋<br > </div>
+## Hello again! 👋<br > 
 
-#### This game inspired by the old PacMan game and I have changed the grid as my own map and styled all characters and designed it my own way.<br > 
+
+#### <p align="left">This game inspired by the old PacMan game and I have changed the grid as my own map and styled all characters and designed it my own way.<br > </p>
   ## <p align="left">GamePlay</p> 
 
 <p align="left">Catch-Me-If-You-Can is an action maze chase video game; the player controls the character: Lisa Marie Simpson <a align="left"> <img src="images/lisa3.png" width="25" height="25">
@@ -25,12 +26,11 @@
   </a>, Bartholomew Jay "Bart" Simpson (Brother) <a align="left"> <img src="images/happyBrother1.png" width="25" height="25">
   </a>, and Margaret Evelyn Lenny "Maggie" Simpson (Baby Sister) <a align="left"> <img src="images/angrybaby1.png" width="25" height="25">
   </a> — that pursue Lisa. When Lisa eats all of the ice-cream and doughnuts, the player win the game.
-
 <div align="center">
     <img src="images/fav1.svg" alt="Logo" width="80" height="80">
   </a> </div> 
 
-I have styled an infinate moving grid on the top of the webpage to make it stylish, I used the same method to create the game board:
+<p align="left">I have styled an infinate moving grid on the top of the webpage to make it stylish, I used the same method to create the game board:<p align="left">
 <!-- Moving Letters Pic -->
 <div align="center">
     <img src="images/grid.JPG" alt="Logo" width="500" height="80">
