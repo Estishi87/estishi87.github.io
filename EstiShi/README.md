@@ -42,7 +42,7 @@ I've got to say that I really benefit from the meet-ups and also some of the men
   </a> I wish to add section about my hobbies and add some pictures about Cachiball team trainings that I'm part of and also about Pilatis training I'm taking part. Both of this hobbies, I'm part of group of mums which would like to improve their health and I'm really proud of it :) <br ><br >
 <br ><br >
 
-Hope you like it! 🙌🏻
+Hope to manage to add all changes to the site! 🙌🏻
 
 # Esti🎀<br />
 <!-- PIC OF ME --> <div align="left">
