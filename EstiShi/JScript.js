@@ -49,10 +49,10 @@ ScrollReveal().reveal(".myimg, .heading, .contact, .about-content1", {
   origin: "top",
 });
 ScrollReveal().reveal(
-  ".side img, .services-container, .about-content, .portfolio-box, .contact form",
+  " .services-container, .about-content, .portfolio-box, .contact form",
   { origin: "bottom" }
 );
-ScrollReveal().reveal(".home-content h1, .about-content h3", {
+ScrollReveal().reveal(".side img, .home-content h1, .about-content h3", {
   origin: "left",
 });
 ScrollReveal().reveal(".about-img, .about-content p", {
