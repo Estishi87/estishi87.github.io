@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # estishi87.github.io 
 <!-- GITHUB ICON -->
 <div align="center">
@@ -47,3 +48,21 @@ This was my attempt to design and style a webpage 🎨<br ><br >
   <a href="https://estishi87.github.io/EstiShi/">
     <img src="images/heart.svg" alt="Logo" width="80" height="80">
   </a>
+
+  <!-- ACKNOWLEDGMENTS --> 
+##  Acknowledgments </div>
+
+ List of resources I find helpful and would like to give credit to:
+  
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search) <br />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
