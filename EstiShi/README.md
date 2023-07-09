@@ -9,7 +9,7 @@
   </a>
 
 ## Hello again! 👋<br > 
-## <p align="left">This web page created by me and inspired from many different tetorials and web developer sites.<br > </p>
+## <p align="left">This web page created by me and inspired from many different tetorials and web development sites.<br > </p>
   ## <p align="left">About</p>
 
 <img src="images/FAC.JPG" alt="Logo" width="25" height="25">
