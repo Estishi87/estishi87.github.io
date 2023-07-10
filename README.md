@@ -58,8 +58,9 @@ This was my attempt to design and style a webpage 🎨<br ><br >
 * [Google it! 😅](https://www.google.co.il/) - Really basic but I used google a lot!
 * [ChatGPT](https://chatgpt.ai/) - My new bestfriend! 👭
 * [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - really helped me to understand more JavaScript.
-* [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
+* [Stack Overflow](https://stackoverflow.com/) - Really good community and good answers to your technical questions.
 * [Pixabay](https://pixabay.com/) Great website for for free quality photos.
+* [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
 * [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
