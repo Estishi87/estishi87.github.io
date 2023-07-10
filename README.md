@@ -50,16 +50,16 @@ This was my attempt to design and style a webpage 🎨<br ><br >
   </a>
 
   <!-- ACKNOWLEDGMENTS --> 
-##  Acknowledgments </div>
+##  Resources </div>
 
- List of resources I find helpful and would like to give credit to:
+Here are some resources that I find helpful and would like to give credit to:
   
 * [W3 Schools website](https://www.w3schools.com/) - I found this website the best for me. It shows live examples on site which was exactly what I needed. I think I used this side the most.
-* [Google it! 😅](https://www.google.co.il/) - Really basic but I used google a lot!
-* [ChatGPT](https://chatgpt.ai/) - My new bestfriend! 👭
-* [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - really helped me to understand more JavaScript.
-* [Stack Overflow](https://stackoverflow.com/) - Really good community and good answers to your technical questions.
-* [Pixabay](https://pixabay.com/) Great website for for free quality photos.
+* [Google it! 😅](https://www.google.co.il/) - Really basic but I used Google a lot!
+* [ChatGPT](https://chatgpt.ai/) - My new best friend! 👭
+* [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - These really helped me to understand more about JavaScript.
+* [Stack Overflow](https://stackoverflow.com/) - A really good community with good answers to your technical questions.
+* [Pixabay](https://pixabay.com/) A great website for free quality photos.
 * [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
 * [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
 
