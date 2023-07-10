@@ -26,14 +26,17 @@
   </a>, Bartholomew Jay "Bart" Simpson (Brother) <a align="left"> <img src="images/happyBrother1.png" width="25" height="25">
   </a>, and Margaret Evelyn Lenny "Maggie" Simpson (Baby Sister) <a align="left"> <img src="images/angrybaby1.png" width="25" height="25">
   </a> — that pursue Lisa. When Lisa eats all of the ice-cream and doughnuts, the player win the game.
+
+  <!-- Simpson family PIC -->
 <div align="center">
-    <img src="images/fav1.svg" alt="Logo" width="80" height="80">
-  </a> </div> 
+    <img src="images/Simpson_family.png" alt="Logo" size="100">
+  </a>
+
 
 <p align="left">I have styled an infinate moving grid on the top of the webpage to make it stylish, I used the same method to create the game board:<p align="left">
 <!-- Moving Letters Pic -->
 <div align="center">
-    <img src="images/grid.JPG" alt="Logo" width="500" height="80">
+    <img src="images/grid.JPG" alt="Logo" width="900" height="80">
   </a>
 
 ## Things to improve: <br >
