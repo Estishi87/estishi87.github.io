@@ -49,7 +49,7 @@ ScrollReveal().reveal(".myimg, .heading, .contact, .about-content1", {
   origin: "top",
 });
 ScrollReveal().reveal(
-  " .services-container, .about-content, .portfolio-box, .contact form",
+  " .services-container, .about-content, .projects-box, .contact form",
   { origin: "bottom" }
 );
 ScrollReveal().reveal(".side img, .home-content h1, .about-content h3", {
@@ -62,9 +62,16 @@ ScrollReveal().reveal(".about-img, .about-content p", {
 // -----------------typed js---------------------
 
 const typed = new Typed(".multiple-text", {
-  strings: [" ", "Hello! 👋 "],
-  typeSpeed: 130,
+  strings: [
+    " ",
+    "Hello! 👋",
+    "greetings! 🤓",
+    "Hey there! 👉",
+    "Howdy! 😎",
+    "🤩😅😇",
+  ],
+  typeSpeed: 170,
   backSpeed: false,
   backDelay: false,
-  loop: false,
+  loop: true,
 });
