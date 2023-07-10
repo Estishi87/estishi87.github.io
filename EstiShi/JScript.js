@@ -62,7 +62,7 @@ ScrollReveal().reveal(".about-img, .about-content p", {
 // -----------------typed js---------------------
 
 const typed = new Typed(".multiple-text", {
-  strings: [" ", "Hello! 👋", "greetings! 🤓", "Hey there! 👉", "Howdy! 😎"],
+  strings: [" ", "Hello! 👋", "Greetings! 🤓", "Hey there! 👉", "Howdy! 😎"],
   typeSpeed: 180,
   backSpeed: false,
   backDelay: true,

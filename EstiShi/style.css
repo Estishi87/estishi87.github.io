@@ -48,8 +48,9 @@ body {
 /* smartphone menu */
 #menu-icon {
   font-size: 3.6rem;
-  color: #0ef;
+  color: black;
   display: none;
+  cursor: pointer;
 }
 
 .navbar a {
@@ -164,20 +165,6 @@ body {
   cursor: pointer;
   -webkit-transition-property: all;
   -webkit-transition-timing-function: ease;
-  animation: floatImage 100s ease-in-out;
-  animation-iteration-count: 1;
-}
-
-@keyframes floatImage {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-1rem);
-  }
-  100% {
-    transform: translateY(0);
-  }
 }
 
 /* main logos and pics */
@@ -254,7 +241,7 @@ body {
   padding: 30px;
   margin: 8px;
   width: 150px;
-  opacity: 0.8;
+  opacity: 0.85;
   color: white;
   width: 250px;
   height: 270px;
@@ -268,6 +255,9 @@ body {
   margin-top: 10px;
   font-size: 15px;
   font-weight: 900;
+  align-items: center;
+  display: block;
+  margin: 0 auto;
 }
 
 .myimg:hover {
@@ -732,12 +722,18 @@ span {
 @media (max-width: 991px) {
   .header {
     padding: 2rem 3%;
+    height: 10px;
   }
 
   section {
     padding: 10rem 3% 2rem;
   }
 
+  .container h1 {
+    font-size: 10px;
+    padding: 10px;
+    margin: auto;
+  }
   .sercives {
     margin-bottom: 7rem;
   }
@@ -767,6 +763,11 @@ span {
     cursor: pointer;
     -webkit-transition-property: all;
     -webkit-transition-timing-function: ease;
+  }
+  .contact {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
   }
 }
 
@@ -812,7 +813,8 @@ span {
 
   /* Ester Shimony */
   .container h1 {
-    font-size: 25px;
+    font-size: 23px;
+    padding-top: 30px;
   }
 
   .home-img img {
@@ -827,14 +829,20 @@ span {
     flex-direction: column;
   }
 
+  .header {
+    height: 10px;
+  }
   .side {
     max-width: 40%;
     border-radius: 1000px;
     margin-left: 30%;
   }
-
+  .container {
+    margin-top: 30px;
+    height: 120px;
+  }
   .side img {
-    width: 20vw;
+    width: 15vw;
     margin-top: 4rem;
   }
 
@@ -865,6 +873,11 @@ span {
   .contact form .input-box input {
     width: 100%;
   }
+  .about-content{
+    max-width: none
+}
+.flip-card {
+  width: 300px;
 }
 
 @media (max-width: 365px) {
