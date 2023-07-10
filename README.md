@@ -54,14 +54,13 @@ This was my attempt to design and style a webpage 🎨<br ><br >
 
  List of resources I find helpful and would like to give credit to:
   
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search) <br />
+* [W3 Schools website](https://www.w3schools.com/) - I found this website the best for me. It shows live examples on site which was exactly what I needed. I think I used this side the most.
+* [Google it! 😅](https://www.google.co.il/) - Really basic but I used google a lot!
+* [ChatGPT](https://chatgpt.ai/) - My new bestfriend! 👭
+* [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - really helped me to understand more JavaScript.
+* [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
+* [Pixabay](https://pixabay.com/) Great website for for free quality photos.
+* [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
