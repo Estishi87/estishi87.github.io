@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🏃 [CATCH ME IF YOU CAN GAME!](https://estishi87.github.io/CatchMeIfYouCan/)🏃‍♀<br >
+# 🏃 [CATCH ME IF YOU CAN GAME!](https://estishi87.github.io/CatchMeIfYouCan/)🏃 <br >
 
 <!-- Donut PIC -->
 <div align="center">
