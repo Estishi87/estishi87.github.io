@@ -27,7 +27,7 @@ I've got to say that I really benefit from the FAC meet-ups, some of the mentors
 
 <p align="left">I have tried to make this web as uniqe as possible and played around with some different functions I have leart on my progress.
   
-<a align="center"><img src="images/bulb.png" width="80" height="80" style="margin-bottom: -90px"></a>
+<a align="center"><img src="images/bulb.png" width="70" height="80" style="margin-bottom: -90px"></a>
 
 
 ## Things to improve: <br >
