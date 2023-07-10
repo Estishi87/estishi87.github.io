@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌐[My Web Page](https://estishi87.github.io/CatchMeIfYouCan/)🌐
+# 🌐[My Web Page](https://estishi87.github.io/EstiShi/)🌐
 <br >
 
 <!--MAIN PIC -->
@@ -10,25 +10,25 @@
 
 ## Hello again! 👋<br > 
 ## <p align="left">This web page created by me and inspired from many different tetorials and web development sites.<br > </p>
-  ## <p align="left">About</p>
 
-<img src="images/FAC.JPG" alt="Logo" width="25" height="25">
-  </a> 
+ 
   
-###  <p align="left">I created this project to apply for Founders and Coders Software Developer [Skills Bootcamp](https://www.foundersandcoders.com/learn/)<br > </p>
-  ## <p align="left">About</p> 
+###  <p align="left">I created this project to apply for Founders and Coders Software Developer [Skills Bootcamp](https://www.foundersandcoders.com/learn/)<img src="images/FAC.jpg" alt="Logo" width="40" height="40" style="margin-bottom: -7px">.<br > </p>
+
+<img src="images/E.png" width="80" height="80">
+  
+  ## <p align="center">About</p> 
 
 <p align="left">First I desined the main section itself and in the time I added the next sections.
-I have showed this web to my friends and everytime I asked for feedback, someone gave me another idea, which made me improve this web.
-I've got to say that I really benefit from the meet-ups and also some of the mentors and coleuges helped me and gave me some more ideas which really helps!
+I have showed this web to my friends and everytime I asked for feedback, someone gave me another idea😅, which made me improve this website.<br />
+I've got to say that I really benefit from the FAC meet-ups, some of the mentors and coleuges helped me and gave me some more ideas which really helps!
   
 </div> 
 
-<p align="left">I have tried to make this web as uniqe as possible and played around with some different functions I have leart on my progress.<p align="left">
-<!-- Moving Letters Pic -->
-<div align="center">
-    <img src="images/grid.JPG" alt="Logo" width="500" height="80">
-  </a>
+<p align="left">I have tried to make this web as uniqe as possible and played around with some different functions I have leart on my progress.
+  
+<a align="center"><img src="images/bulb.png" width="80" height="80" style="margin-bottom: -90px"></a>
+
 
 ## Things to improve: <br >
 <div align="left">
@@ -47,7 +47,7 @@ Hope to manage to add all changes to the site! 🙌🏻
 # Esti🎀<br />
 <!-- PIC OF ME --> <div align="left">
   <a href="https://estishi87.github.io/EstiShi/">
-    <img src="images/lisa3.png" alt="Logo" width="80" height="80">
+    <img src="images/Esti.jpeg" alt="MyPic" width="80" height="80">
   </a> <br >
   
 [My Web🌐](https://estishi87.github.io/EstiShi/)
