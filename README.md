@@ -14,7 +14,7 @@
 ## Hello! 👋<br >
   ### Here are some of my coding projects😁. <br ></div>
 #### I’m a beginner web developer and I would like to progress in this area to build up my set of skills and become a great web developer.<br > 
-I have always been interested in technology and how it can be used to solve problems💫. Thinking about programming, I find it really amazing that these written words can automate processes and change so many things that can make our lives easier! 🦾<br ><br >
+I have always been interested in technology and how it can be used to solve problems💫. Thinking about programming, I find it really amazing that these written words can automate processes and change so many things that can make our lives easier! ⭐<br ><br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻. I was tasked with creating a program that would automate some of the financial reporting processes🕵️‍♀️. I find the process of coding to be very rewarding and I enjoy the challenge of solving problems through code🔀.<br ><br >
 I have been exploring different coding languages and tools and have been working on various coding projects in my free time🧐. I find coding to be a great way to express my creativity and I enjoy the process of developing new applications🛠️.<br ><br >
 I am excited to continue learning more about coding and I am looking forward to applying my skills in a professional setting🏅🥉🥈🥇.<br ><br >
@@ -50,16 +50,16 @@ This was my attempt to design and style a webpage 🎨<br ><br >
   </a>
 
   <!-- ACKNOWLEDGMENTS --> 
-##  Acknowledgments </div>
+##  Resources </div>
 
- List of resources I find helpful and would like to give credit to:
+Here are some resources that I find helpful and would like to give credit to:
   
 * [W3 Schools website](https://www.w3schools.com/) - I found this website the best for me. It shows live examples on site which was exactly what I needed. I think I used this side the most.
-* [Google it! 😅](https://www.google.co.il/) - Really basic but I used google a lot!
-* [ChatGPT](https://chatgpt.ai/) - My new bestfriend! 👭
-* [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - really helped me to understand more JavaScript.
-* [Stack Overflow](https://stackoverflow.com/) - Really good community and good answers to your technical questions.
-* [Pixabay](https://pixabay.com/) Great website for for free quality photos.
+* [Google it! 😅](https://www.google.co.il/) - Really basic but I used Google a lot!
+* [ChatGPT](https://chatgpt.ai/) - My new best friend! 👭
+* [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - These really helped me to understand more about JavaScript.
+* [Stack Overflow](https://stackoverflow.com/) - A really good community with good answers to your technical questions.
+* [Pixabay](https://pixabay.com/) A great website for free quality photos.
 * [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
 * [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
 
