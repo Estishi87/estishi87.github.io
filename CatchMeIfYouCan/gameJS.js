@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   createBoard();
 
+  //change colors infinite
   function changeNum() {
     for (let i = 0; i < squares.length; i++) {
       if (squares[i].classList == "one") {
@@ -170,7 +171,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  //starting posion of Lisa
+  //starting position of Lisa
   let lisaCurrentIndex = 77;
   squares[lisaCurrentIndex].classList.add("lisa");
 
@@ -300,7 +301,7 @@ document.addEventListener("DOMContentLoaded", () => {
     squares[simpson.currentIndex].classList.add("simpson");
   });
 
-  //move the simpsons rendomly
+  //move the simpsons randomly
   simpsons.forEach((simpson) => moveSimpson(simpson));
 
   //the function to move the simpsons
@@ -308,7 +309,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const directions = [-1, +1, width, -width];
     let direction = directions[Math.floor(Math.random() * directions.length)];
     simpson.timerId = setInterval(function () {
-      //if the next squeres your simpson is going to go in does NOT contain a wall and a simpson, you can go there
+      //if the next squares your simpson is going to go in does NOT contain a wall and a simpson, you can go there
       if (
         !squares[simpson.currentIndex + direction].classList.contains("wall") &&
         !squares[simpson.currentIndex + direction].classList.contains("simpson")
@@ -383,4 +384,3 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 
-//--------------------------------Part 2-----------------------------------------------
