@@ -569,6 +569,15 @@ span {
   align-items: center;
   text-align: center;
   padding: 3%;
+  animation: skyanimation 80s infinite linear;
+}
+@keyframes skyanimation {
+  0% {
+    background-position: 0px 0px scaleY(0.5deg);
+  }
+  100% {
+    background-position: 0px -808px;
+  }
 }
 
 .resources-container1 {
