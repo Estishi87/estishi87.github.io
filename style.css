@@ -641,6 +641,11 @@ span {
   animation: moonanimation 20s infinite linear;
   box-shadow: 0 0 10rem rgb(165, 239, 241);
 }
+.resource-box8:hover {
+  width: 140px;
+  height: 140px;
+  cursor: pointer;
+}
 @keyframes moonanimation {
   0% {
     transform: rotate(0deg) translateX(190px) rotate(0deg);
@@ -660,6 +665,11 @@ span {
   animation: earthanimation 9s infinite;
   box-shadow: 0 0 0rem rgb(3, 243, 231);
 }
+.resource-box9:hover {
+  width: 230px;
+  height: 230px;
+  cursor: pointer;
+}
 @keyframes earthanimation {
   0% {
     transform: translateX(10px);
@@ -674,42 +684,29 @@ span {
   }
 }
 
-.left {
+.text {
   position: absolute;
-  margin: auto;
-  top: 0;
-  right: 0;
-  bottom: 0px;
-  left: 0;
-  width: 100%;
-  height: 170px;
-  background-color: red;
+  display: flexbox;
+  font-size: 30px;
+  font-weight: 800;
+  color: white;
+  line-height: 3;
+  height: 100%;
+  overflow: hidden;
 }
-.left:hover {
-  -webkit-animation: animationShrink 2s 1 ease forwards;
-}
-
-.container:hover {
-  -webkit-animation: animationUp 2s 1 ease forwards;
+.hidden-text {
+  display: none;
 }
 
-@-webkit-keyframes animationShrink {
-  from {
-    font-size: 1em;
+@keyframes textanimation {
+  0% {
+    transform: translateY(100%);
   }
-  to {
-    font-size: 0.6em;
+  100% {
+    transform: translateY(-100%);
   }
 }
 
-@-webkit-keyframes animationUp {
-  from {
-    bottom: 0px;
-  }
-  to {
-    bottom: 300px;
-  }
-}
 /* -------Contact Section--- 5th fifth section -------------------*/
 
 .contact {
