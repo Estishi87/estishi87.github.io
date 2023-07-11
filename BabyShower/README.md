@@ -26,4 +26,4 @@ In the time I realized that it is much more convineant for me to put this files 
 <p align="left">Hope you like it! 🙌🏻
 
 # <p align="left">Esti🎀<br />
-[🌐My Web🌐](https://estishi87.github.io/EstiShi/)
+[🌐My Web🌐](https://estishi87.github.io/)
