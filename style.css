@@ -878,13 +878,15 @@ span {
   text-align: center;
 }
 
-.contact form .input-box {
+.contact form .input-box,
+.contact form .input-box1 {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
 .contact form .input-box input,
+.contact form .input-box1 input,
 .contact form textarea {
   width: 100%;
   padding: 1rem;
@@ -897,6 +899,10 @@ span {
 
 .contact form .input-box input {
   width: 49%;
+}
+
+.contact form .input-box1 input {
+  width: 100%;
 }
 
 .contact form textarea {
