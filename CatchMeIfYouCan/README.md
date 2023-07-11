@@ -51,10 +51,10 @@ Hope you like it! 🙌🏻
 
 # Esti🎀<br />
 <!-- PIC OF ME --> <div align="left">
-  <a href="https://estishi87.github.io/EstiShi/">
+  <a href="https://estishi87.github.io/">
     <img src="images/lisa3.png" alt="Logo" width="80" height="80">
   </a> <br >
   
-[My Web🌐](https://estishi87.github.io/EstiShi/)
+[My Web🌐](https://estishi87.github.io/)
 <br >
 
