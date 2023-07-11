@@ -12,7 +12,8 @@
 
 
 ## Hello! 👋<br >
-  ### Here are some of my coding projects😁. <br ></div>
+</div>
+
 #### I’m a beginner web developer and I would like to progress in this area to build up my set of skills and become a great web developer.<br > 
 I have always been interested in technology and how it can be used to solve problems💫. Thinking about programming, I find it really amazing that these written words can automate processes and change so many things that can make our lives easier! ⭐<br ><br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻. I was tasked with creating a program that would automate some of the financial reporting processes🕵️‍♀️. I find the process of coding to be very rewarding and I enjoy the challenge of solving problems through code🔀.<br ><br >
@@ -69,7 +70,7 @@ Here are some resources that I find helpful and would like to give credit to:
 
 <div align="center">
   
-# 🌐[My Web Page](https://estishi87.github.io/EstiShi/)🌐
+# 🌐[About my Web Page](https://estishi87.github.io/EstiShi/)🌐
 <br >
 
 <!--MAIN PIC -->
@@ -77,7 +78,6 @@ Here are some resources that I find helpful and would like to give credit to:
     <img src="images/HTMLCSSJS.png" width="180" height="80">
   </a>
 
-## Hello again! 👋<br > 
 ## <p align="left">This web page created by me and inspired from many different tutorials and web development sites.<br > </p>
 
  
