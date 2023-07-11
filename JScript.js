@@ -68,14 +68,3 @@ const typed = new Typed(".multiple-text", {
   backDelay: true,
   loop: true,
 });
-
-// moving text in resoureces section like a movie subtitles
-
-window.addEventListener("scroll", function () {
-  var text = document.querySelector(".text");
-  var hiddenText = document.querySelector(".hidden-text");
-
-  if (text.scrollTop + text.clientHeight >= text.scrollHeight) {
-    hiddenText.style.display = "block";
-  }
-});

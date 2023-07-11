@@ -641,11 +641,11 @@ span {
   animation: moonanimation 20s infinite linear;
   box-shadow: 0 0 10rem rgb(165, 239, 241);
 }
-.resource-box8:hover {
+/* .resource-box8:hover {
   width: 140px;
   height: 140px;
   cursor: pointer;
-}
+} */
 @keyframes moonanimation {
   0% {
     transform: rotate(0deg) translateX(190px) rotate(0deg);
@@ -665,11 +665,11 @@ span {
   animation: earthanimation 9s infinite;
   box-shadow: 0 0 0rem rgb(3, 243, 231);
 }
-.resource-box9:hover {
+/* .resource-box9:hover {
   width: 230px;
   height: 230px;
   cursor: pointer;
-}
+} */
 @keyframes earthanimation {
   0% {
     transform: translateX(10px);
@@ -687,15 +687,13 @@ span {
 .text {
   position: absolute;
   display: flexbox;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 800;
   color: white;
   line-height: 3;
   height: 100%;
   overflow: hidden;
-}
-.hidden-text {
-  display: none;
+  text-align: left;
 }
 
 @keyframes textanimation {
