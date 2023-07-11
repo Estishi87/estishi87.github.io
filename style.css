@@ -566,7 +566,6 @@ span {
 .resources {
   background-image: url(images/sky1.jpg);
   background-size: cover;
-  justify-content: center;
   align-items: center;
   text-align: center;
   padding: 3%;
@@ -574,11 +573,13 @@ span {
 
 .resources-container1 {
   display: flex;
+  justify-content: center;
 }
 
-.resources-container2 {
-  display: flex;
+.resources-container1 {
+  margin-right: 90px;
 }
+
 .resources h1 {
   color: white;
   text-align: center;
@@ -587,23 +588,6 @@ span {
   -webkit-transition-property: all;
   -webkit-transition-timing-function: ease;
   position: relative;
-  animation: newanimation 10s infinite;
-}
-
-/* 12 Point Burst Shape */
-.resource-box1 {
-  color: rgb(255, 255, 255);
-  background: rgb(255, 255, 255);
-  width: 120px;
-  height: 120px;
-  position: relative;
-  text-align: center;
-  margin: 80px;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-  box-shadow: 0 0 10rem rgb(3, 243, 231);
 }
 
 @keyframes newanimation {
@@ -634,219 +618,61 @@ span {
     transform: skew(20deg, 10deg);
   }
 }
-.resource-box1:before,
-.resource-box1:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 120px;
-  height: 120px;
-  background: rgb(255, 255, 255);
-}
-.resource-box1:before {
-  transform: rotate(30deg);
-}
-.resource-box1:after {
-  transform: rotate(60deg);
-}
-
-/* Egg */
-.resource-box2 {
-  margin: 40px;
-  display: block;
-  width: 126px;
-  height: 180px;
-  background-color: rgb(255, 255, 255);
-  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
-  transform: rotate(60deg);
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-
-  box-shadow: 0 0 10rem rgb(3, 243, 231);
-}
-
-/* diamond  */
-.resource-box3 {
-  margin: 80px;
-  border-style: solid;
-  border-color: transparent transparent rgb(255, 255, 255) transparent;
-  border-width: 0 25px 25px 25px;
-  height: 0;
-  width: 50px;
-  box-sizing: content-box;
-  position: relative;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-}
-.resource-box3:after {
-  content: "";
-  position: absolute;
-  top: 25px;
-  left: -25px;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-color: white transparent transparent transparent;
-  border-width: 70px 50px 0 50px;
-}
-
-/* star */
-.resource-box4 {
-  margin: 80px;
-  position: relative;
-  display: block;
-  color: white;
-  width: 0px;
-  height: 0px;
-  border-right: 100px solid transparent;
-  border-bottom: 70px solid white;
-  border-left: 100px solid transparent;
-  transform: rotate(35deg);
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-}
-.resource-box4:before {
-  border-bottom: 80px solid white;
-  border-left: 30px solid transparent;
-  border-right: 30px solid transparent;
-  position: absolute;
-  height: 0;
-  width: 0;
-  top: -45px;
-  left: -65px;
-  display: block;
-  content: "";
-  transform: rotate(-35deg);
-}
-.resource-box4:after {
-  position: absolute;
-  display: block;
-  color: white;
-  top: 3px;
-  left: -105px;
-  width: 0px;
-  height: 0px;
-  border-right: 100px solid transparent;
-  border-bottom: 70px solid white;
-  border-left: 100px solid transparent;
-  transform: rotate(-70deg);
-  content: "";
-}
-
-/* pentagon */
-.resource-box5 {
-  margin: 80px;
-  position: relative;
-  width: 54px;
-  box-sizing: content-box;
-  border-width: 50px 18px 0;
-  border-style: solid;
-  border-color: white transparent;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-}
-.resource-box5:before {
-  content: "";
-  position: absolute;
-  height: 0;
-  width: 0;
-  top: -85px;
-  left: -18px;
-  border-width: 0 45px 35px;
-  border-style: solid;
-  border-color: transparent transparent white;
-}
-
-/* heart */
-.resource-box6 {
-  margin: 80px;
-  position: relative;
-  width: 100px;
-  height: 90px;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-}
-.resource-box6:before,
-.resource-box6:after {
-  position: absolute;
-  content: "";
-  left: 50px;
-  top: 0;
-  width: 50px;
-  height: 80px;
-  background: white;
-  border-radius: 50px 50px 0 0;
-  transform: rotate(-45deg);
-  transform-origin: 0 100%;
-}
-.resource-box6:after {
-  left: 0;
-  transform: rotate(45deg);
-  transform-origin: 100% 100%;
-}
-
-/* Diamond Square */
-.resource-box7 {
-  margin: 80px;
-  width: 0;
-  height: 0;
-  border: 50px solid transparent;
-  border-bottom-color: white;
-  position: relative;
-  top: -50px;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-}
-.resource-box7:after {
-  content: "";
-  position: absolute;
-  left: -50px;
-  top: 50px;
-  width: 0;
-  height: 0;
-  border: 50px solid transparent;
-  border-top-color: white;
-}
 
 /* moon */
 .resource-box8 {
-  margin: 80px;
-
-  width: 0;
-  height: 0;
-  border-top: 50px solid transparent;
-  border-right: 100px solid white;
-  border-bottom: 50px solid transparent;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
-  position: relative;
-  animation: newanimation 10s infinite;
-}
-
-/* circle */
-.resource-box9 {
-  width: 100px;
-  height: 100px;
-  background: white;
+  background-image: url(images/moon1.png);
+  left: 180px;
+  position: absolute;
+  top: 40px;
+  background-size: cover;
+  width: 130px;
+  height: 130px;
+  color: white;
   border-radius: 50%;
-  -webkit-transition-property: all;
-  -webkit-transition-timing-function: ease;
+  border: none;
   position: relative;
-  animation: newanimation 10s infinite;
-  box-shadow: 0 0 10rem rgb(3, 243, 231);
+  animation: moonanimation 20s infinite linear;
+  box-shadow: 0 0 10rem rgb(165, 239, 241);
+}
+@keyframes moonanimation {
+  0% {
+    transform: rotate(0deg) translateX(190px) rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg) translateX(190px) rotate(-360deg);
+  }
+}
+/* earth */
+.resource-box9 {
+  width: 220px;
+  height: 220px;
+  background-image: url(images/earth.png);
+  background-size: cover;
+  border-radius: 80%;
+  animation: earthanimation 9s infinite;
+  box-shadow: 0 0 0rem rgb(3, 243, 231);
+}
+@keyframes earthanimation {
+  0% {
+    transform: translateX(10px);
+    transform: rotateY(45deg);
+    transform: translate(5px, 10px);
+    transform: skewY(-10deg);
+  }
+
+  50% {
+    transform: rotateY(-45deg);
+    transform: translate(-5px, -10px);
+    transform: skewY(10deg);
+  }
+  100% {
+    transform: translateX(10px);
+    transform: rotateY(45deg);
+    transform: translate(5px, 10px);
+    transform: skewY(-10deg);
+  }
 }
 
 /* -------Contact Section--- 5th fifth section -------------------*/
@@ -907,7 +733,7 @@ span {
 
 .contact form textarea {
   resize: none;
-  height: 120px;
+  height: 190px;
 }
 
 .contact form .btn {
