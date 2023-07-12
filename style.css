@@ -694,14 +694,15 @@ span {
   height: 100%;
   overflow: hidden;
   text-align: left;
+  animation: animationUp 1s infinite;
 }
 
-@keyframes textanimation {
-  0% {
-    transform: translateY(100%);
+@-webkit-keyframes animationUp {
+  from {
+    bottom: 70px;
   }
-  100% {
-    transform: translateY(-100%);
+  to {
+    bottom: 300px;
   }
 }
 
@@ -827,9 +828,6 @@ span {
     padding: 10px;
     margin: auto;
   }
-  .sercives {
-    margin-bottom: 7rem;
-  }
 
   .projects {
     padding-bottom: 7rem;
@@ -951,8 +949,8 @@ span {
     grid-template-columns: repeat(2, 1fr);
   }
   .resource-box8 {
-    width: 30px;
-    height: 30px;
+    width: 70px;
+    height: 70px;
   }
 }
 
@@ -962,14 +960,13 @@ span {
   }
 }
 
-.resource-box8 {
-  width: 20px;
-  height: 20px;
-}
-
 @media (max-width: 450px) {
   html {
     font-size: 50%;
+  }
+
+  .header {
+    padding: 20px;
   }
 
   .contact form .input-box input {
@@ -985,7 +982,13 @@ span {
     width: 30px;
     height: 30px;
   }
-
+  .resources-container1 {
+    justify-content: none;
+    margin-right: 3px;
+  }
+  .resources {
+    flex-direction: column;
+  }
   @media (max-width: 365px) {
     .myimg {
       width: 90vw;
