@@ -14,7 +14,7 @@
 ## Hello again! 👋<br > 
 
 
-#### <p align="left">I was inspired by the classic PacMan game and created my own map by changing the grid. I also designed all the characters and styled them in my own way.<br > </p>
+#### <p align="left">Here are some explanations and information about my game!<br > </p>
 
   ## <p align="center"><img src="images/fav1.svg" alt="Logo" width="40" height="40" style="margin-bottom: -12px"> Gameplay <img src="images/fav1.svg" alt="Logo" width="40" height="40" style="margin-bottom: -12px"></p>
 
@@ -32,6 +32,7 @@
     <img src="images/Simpson_family.png" alt="Logo" size="100">
   </a>
 
+#### <p align="left">I was inspired by the classic PacMan game and created my own map by changing the grid. I also designed all the characters and styled them in my own way.</p> 
 
 <p align="left">I have styled an infinite moving grid on the top of the webpage to make it stylish. I used the same method to create the game board:<p align="left">
 <!-- Moving Letters Pic -->
@@ -46,6 +47,11 @@
 <img src="images/icecream1.jpg" alt="Logo" width="25" height="25">
   </a> I wish to add a next level with a different map and maybe new characters after you win the first level :) <br >
 <br ><br >
+
+<div align="center">
+  
+## [Lets play! 👉](https://estishi87.github.io/CatchMeIfYouCan/)
+</div>
 
 Hope you like it! 🙌🏻
 
