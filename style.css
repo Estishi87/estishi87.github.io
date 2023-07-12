@@ -950,12 +950,21 @@ span {
   .projects-container {
     grid-template-columns: repeat(2, 1fr);
   }
+  .resource-box8 {
+    width: 30px;
+    height: 30px;
+  }
 }
 
 @media (max-width: 617px) {
   .projects-container {
     grid-template-columns: 1fr;
   }
+}
+
+.resource-box8 {
+  width: 20px;
+  height: 20px;
 }
 
 @media (max-width: 450px) {
@@ -971,6 +980,10 @@ span {
   }
   .flip-card {
     width: 300px;
+  }
+  .resource-box8 {
+    width: 30px;
+    height: 30px;
   }
 
   @media (max-width: 365px) {
@@ -989,6 +1002,10 @@ span {
     .footer p {
       text-align: center;
       margin-top: 2rem;
+    }
+    .resource-box8 {
+      width: 30px;
+      height: 30px;
     }
   }
 }
