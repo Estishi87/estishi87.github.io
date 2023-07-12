@@ -687,22 +687,190 @@ span {
 .text {
   position: absolute;
   display: flexbox;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 800;
   color: white;
-  line-height: 3;
+  line-height: 20;
   height: 100%;
   overflow: hidden;
-  text-align: left;
-  animation: animationUp 1s infinite;
 }
 
-@-webkit-keyframes animationUp {
+.text:hover {
+  text-shadow: 0 0 1rem white;
+  color: #1af1c3;
+  cursor: pointer;
+  animation-play-state: paused;
+}
+.text p:nth-child(1):hover,
+.text p:nth-child(2):hover,
+.text p:nth-child(3):hover,
+.text p:nth-child(4):hover,
+.text p:nth-child(5):hover,
+.text p:nth-child(6):hover,
+.text p:nth-child(7):hover,
+.text p:nth-child(8):hover,
+.text p:nth-child(9):hover,
+.text p:nth-child(10):hover,
+.text p:nth-child(11):hover,
+.text p:nth-child(12):hover,
+.text p:nth-child(13):hover {
+  animation-play-state: paused;
+}
+
+.text p:nth-child(1) {
+  animation: MoveUpDown1 41s linear infinite;
+}
+
+.text p:nth-child(2) {
+  animation: MoveUpDown2 41s linear infinite;
+}
+
+.text p:nth-child(3) {
+  animation: MoveUpDown3 41s linear infinite;
+}
+
+.text p:nth-child(4) {
+  animation: MoveUpDown4 41s linear infinite;
+}
+
+.text p:nth-child(5) {
+  animation: MoveUpDown5 41s linear infinite;
+}
+
+.text p:nth-child(6) {
+  animation: MoveUpDown6 41s linear infinite;
+}
+
+.text p:nth-child(7) {
+  animation: MoveUpDown7 41s linear infinite;
+}
+
+.text p:nth-child(8) {
+  animation: MoveUpDown8 41s linear infinite;
+}
+
+.text p:nth-child(9) {
+  animation: MoveUpDown8 41s linear infinite;
+}
+
+.text p:nth-child(10) {
+  animation: MoveUpDown8 41s linear infinite;
+}
+
+.text p:nth-child(11) {
+  animation: MoveUpDown8 41s linear infinite;
+}
+
+.text p:nth-child(12) {
+  animation: MoveUpDown8 41s linear infinite;
+}
+
+.text p:nth-child(13) {
+  animation: MoveUpDown8 41s linear infinite;
+}
+
+@keyframes MoveUpDown1 {
   from {
-    bottom: 70px;
+    transform: translateY(0);
   }
   to {
-    bottom: 300px;
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown2 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown3 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown4 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown5 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown6 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown7 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown8 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown9 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown10 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown11 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown12 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
+  }
+}
+@keyframes MoveUpDown13 {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5000px);
   }
 }
 
