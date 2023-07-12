@@ -19,16 +19,6 @@ I was first introduced to coding when I was working on a project for my previous
 I have been exploring different coding languages and tools and have been working on various coding projects in my free time🧐. I find coding to be a great way to express my creativity and I enjoy the process of developing new applications🛠️.<br ><br >
 I am excited to continue learning more about coding and I am looking forward to applying my skills in a professional setting🏅🥉🥈🥇.<br ><br >
 
-Hope you like it! 🙌🏻
-
-# Esti🎀<br />
-<!-- PIC OF ME --> <div align="left">
-  <a href="https://estishi87.github.io/">
-    <img src="images/Esti.jpeg" alt="Logo" width="80" height="80">
-  </a> <br >
-  
-[My Web🌐](https://estishi87.github.io/)
-<br >
 <!-- FOLDER ICON --> <div align="center">
   <a href="https://estishi87.github.io/">
     <img src="images/folder-open.svg" alt="Logo" width="80" height="80">
@@ -62,9 +52,6 @@ Here are some resources that I find helpful and would like to give credit to:
 * [Pixabay](https://pixabay.com/) A great website for free quality photos.
 * [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
 * [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <div align="center">
