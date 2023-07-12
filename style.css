@@ -565,7 +565,7 @@ span {
 
 .resources {
   background-image: url(images/sky1.jpg);
-  background-size: cover;
+  background-size: 1400px;
   align-items: center;
   text-align: center;
   padding: 3%;
@@ -693,6 +693,7 @@ span {
   line-height: 20;
   height: 100%;
   overflow: hidden;
+  margin-top: -120px;
 }
 
 .text:hover {
@@ -871,6 +872,32 @@ span {
   }
   to {
     transform: translateY(-5000px);
+  }
+}
+
+.text1 {
+  overflow: hidden;
+  line-height: 2;
+  height: 100%
+  position: absolute;
+  font-size: 18px;
+  font-weight: 100;
+  color: white;
+  margin-left: 980px;
+  margin-right: 10px;
+  margin-top: -290px;
+  padding-bottom: 10px
+}
+
+.text1 p {
+  animation: MoveUpDownText 21s linear infinite;
+}
+@keyframes MoveUpDownText {
+  from {
+    transform: translateY(500px);
+  }
+  to {
+    transform: translateY(-1000px);
   }
 }
 
