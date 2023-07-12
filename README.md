@@ -77,7 +77,7 @@ Here are some resources that I find helpful and would like to give credit to:
     <img src="images/HTMLCSSJS.png" width="180" height="80">
   </a>
 
-## <p align="left">This web page created by me and inspired from many different tutorials and web development sites.<br > </p>
+## <p align="left">This web page was created by me and inspired by many different tutorials and web development sites.<br > </p>
 
  
   
