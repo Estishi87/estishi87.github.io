@@ -19,7 +19,7 @@ I believe that this course can give me a good start in the web development field
 I am fascinated by the endless possibilities of web development and the ability to create something new and exciting every day. I would love to learn how to turn my ideas into reality and make a positive impact on the world!🌍<br ><br >
 I have always been interested in technology and how it can be used to solve problems💫. Thinking about programming, I find it really amazing that these written words can automate processes and change so many things that can make our lives easier! ⭐<br ><br >
 I was first introduced to coding when I was working on a project for my previous job as an accountant💻. I was tasked with creating a program that would automate some of the financial reporting processes🕵️‍♀️. I find the process of coding to be very rewarding and I enjoy the challenge of solving problems through code🔀.<br ><br >
-I am excited to continue learning more about coding and I am looking forward to applying my skills in a professional setting!🏅.<br ><br >
+I am excited to continue learning more about coding and I am looking forward to applying my skills in a professional setting!🏅<br ><br >
 
 
 <!-- FOLDER ICON --> <div align="center">
