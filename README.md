@@ -19,16 +19,7 @@ I was first introduced to coding when I was working on a project for my previous
 I have been exploring different coding languages and tools and have been working on various coding projects in my free time🧐. I find coding to be a great way to express my creativity and I enjoy the process of developing new applications🛠️.<br ><br >
 I am excited to continue learning more about coding and I am looking forward to applying my skills in a professional setting🏅🥉🥈🥇.<br ><br >
 
-Hope you like it! 🙌🏻
 
-# Esti🎀<br />
-<!-- PIC OF ME --> <div align="left">
-  <a href="https://estishi87.github.io/">
-    <img src="images/Esti.jpeg" alt="Logo" width="80" height="80">
-  </a> <br >
-  
-[My Web🌐](https://estishi87.github.io/)
-<br >
 <!-- FOLDER ICON --> <div align="center">
   <a href="https://estishi87.github.io/">
     <img src="images/folder-open.svg" alt="Logo" width="80" height="80">
@@ -41,7 +32,7 @@ Hope you like it! 🙌🏻
 📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ic** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ac** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**oe** is my first game, which I love and it's simply fun! ❎🔴 <br ><br >
 📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a **Baby shower** if you are interested 😅
 This was my attempt to design and style a webpage 🎨<br ><br >
-📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of Franks laboratory, which I inspire from and practicing to improve my JavaScript skills👩‍💻<br ><br >
+📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of [Franks laboratory](https://www.youtube.com/watch?v=1bj7g6sXit8&t=122s), which I inspire from and practicing to improve my JavaScript skills👩‍💻<br ><br >
 
 
 <!-- HEART ICON --> <div align="center">
@@ -63,10 +54,6 @@ Here are some resources that I find helpful and would like to give credit to:
 * [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
 * [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <div align="center">
   
 # 🌐[About my Web Page](https://estishi87.github.io/)🌐
@@ -77,7 +64,7 @@ Here are some resources that I find helpful and would like to give credit to:
     <img src="images/HTMLCSSJS.png" width="180" height="80">
   </a>
 
-## <p align="left">This web page created by me and inspired from many different tutorials and web development sites.<br > </p>
+## <p align="left">This web page was created by me and inspired by many different tutorials and web development sites.<br > </p>
 
  
   
@@ -101,12 +88,12 @@ I have to say that I really benefited from the FAC meet-ups; some of the mentors
 <div align="left">
   
 - I need to add a different text each time you turn the picture on the “About” section and then I can add some nice and fun facts about coding and more relevant things! <br ><br >
- - A must-have section of where I got inspiration from! <br ><br >
+ - On resources section next level will be to make earth turn around! <br ><br >
  - I would like to add a section about my journey through this! <br ><br >
-- I wish to add a section about my hobbies and add some pictures about Cachiball team trainings that I’m part of, and also about Pilates training that I’m taking part in. Both of these hobbies are part of a group of moms who would like to improve their health, and I’m really proud of it :) <br ><br >
+ - I wish to add a website about my hobbies and add some pictures about Cachiball team trainings that I’m part of, and also about Pilates training that I’m taking part in. Both of these hobbies are part of a group of moms who would like to improve their health, and I’m really proud of it! :) <br ><br >
 <br ><br >
 
-Hope to manage to add all changes to the site! 🙌🏻
+Hope you like it! 🙌🏻
 
 # Esti🎀<br />
 <!-- PIC OF ME --> <div align="left">
