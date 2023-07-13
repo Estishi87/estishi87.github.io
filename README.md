@@ -29,11 +29,11 @@ I am excited to continue learning more about coding and I am looking forward to 
   
 ## My projects:<br ></div>
 
-📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - **My game** is inspired from the old PacMan game. I designed a new look for the game with a fresh style and characters, have a look!🎮<br ><br >
-📂 [EstiShi](https://estishi87.github.io/) - **My webside**, which show all of my work and my proccess through this learing journey, designed my own style and a bit about myself <br ><br >
+📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - **My game** is inspired by the classic PacMan game, but with a fresh new look and characters that bring a whole new level of excitement to the game, have a look!🎮<br ><br >
+📂 [EstiShi](https://estishi87.github.io/) - **My webside**, which presents all of my work and my proccess through this learing journey! <br ><br >
 📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ic** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ac** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**oe** is my first game, which I love and it's simply fun! ❎🔴 <br ><br >
 📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a **Baby shower** if you are interested 😅
-This was my attempt to design and style a webpage 🎨<br ><br >
+This was my first attempt to design and style a webpage 🎨<br ><br >
 📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of [Franks laboratory](https://www.youtube.com/watch?v=1bj7g6sXit8&t=122s), which I inspire from and practicing to improve my JavaScript skills👩‍💻<br ><br >
 
 
@@ -49,10 +49,11 @@ Here are some resources that I find helpful and would like to give credit to:
   
 * [W3 Schools website](https://www.w3schools.com/) - I found this website the best for me. It shows live examples on site which was exactly what I needed. I think I used this side the most.
 * [Google it! 😅](https://www.google.co.il/) - Really basic but I used Google a lot!
-* [ChatGPT](https://chatgpt.ai/) - My new best friend! 👭
+* [ChatGPT](https://chatgpt.ai/) - My new best friend (and not only in this field)! 👭
 * [Code with Ania Kubów YouTube tutorials](https://www.youtube.com/@AniaKubow) - These really helped me to understand more about JavaScript.
+* [Codewars](https://www.codewars.com/dashboard) - I actually didn’t like this website at the beginning, but then I started to get the idea and learned a lot of JavaScript with interesting questions! 
 * [Stack Overflow](https://stackoverflow.com/) - A really good community with good answers to your technical questions.
-* [Pixabay](https://pixabay.com/) A great website for free quality photos.
+* [Pixabay](https://pixabay.com/) A great website for free quality photos which I use a lot.
 * [unDraw](https://undraw.co/search) Open-source illustrations which I really like.
 * [Boxicons](https://boxicons.com/?query=) High Quality Web Icons <br />
 
