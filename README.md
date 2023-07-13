@@ -32,7 +32,7 @@ I am excited to continue learning more about coding and I am looking forward to 
 📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ic** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ac** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**oe** is my first game, which I love and it's simply fun! ❎🔴 <br ><br >
 📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a **Baby shower** if you are interested 😅
 This was my attempt to design and style a webpage 🎨<br ><br >
-📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of Franks laboratory, which I inspire from and practicing to improve my JavaScript skills👩‍💻<br ><br >
+📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of [Franks laboratory](https://www.youtube.com/watch?v=1bj7g6sXit8&t=122s), which I inspire from and practicing to improve my JavaScript skills👩‍💻<br ><br >
 
 
 <!-- HEART ICON --> <div align="center">
@@ -93,7 +93,7 @@ I have to say that I really benefited from the FAC meet-ups; some of the mentors
  - I wish to add a website about my hobbies and add some pictures about Cachiball team trainings that I’m part of, and also about Pilates training that I’m taking part in. Both of these hobbies are part of a group of moms who would like to improve their health, and I’m really proud of it! :) <br ><br >
 <br ><br >
 
-Hope to manage to add all changes to the site! 🙌🏻
+Hope you like it! 🙌🏻
 
 # Esti🎀<br />
 <!-- PIC OF ME --> <div align="left">
