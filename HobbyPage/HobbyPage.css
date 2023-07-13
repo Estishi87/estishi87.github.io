@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  min-height: 100vh;
+  padding: 10rem 9% 2rem;
+}
+
+html {
+  font-size: 14px;
+  overflow-x: hidden;
+}
+
+/* Style the body */
+body {
+  margin: 0;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+  padding-right: 7%;
+  border-bottom: 0 none;
+}
+
+.logo {
+  margin-left: 10px;
+  height: 30px;
+  weight: 30px;
+  cursor: pointer;
+}
+.logo:hover {
+  transform: rotate(-10deg);
+}
+.header.sticky {
+  border-bottom: 0.1rem solid rgba(0, 0, 0, 0.2);
+  border-bottom: 0 none;
+}
+
+/* smartphone menu */
+#menu-icon {
+  font-size: 3.6rem;
+  color: black;
+  display: none;
+  cursor: pointer;
+}
+
+.navbar a {
+  font-size: 1.7rem;
+  color: rgb(0, 0, 0);
+  margin-left: 4rem;
+  transition: 0.3s;
+  font-size: 18px;
+  font-weight: 700;
+  transition: all 200ms ease-in-out;
+  width: 100%;
+  border-color: #0ef;
+  border-radius: 70px;
+  padding: 10px;
+}
+.navbar a.active {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.6;
+  color: #000000;
+}
+
+.navbar a:hover {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.6;
+  color: #000000;
+  cursor: pointer;
+}
+
+/* -------------------------About Section--- 2nd Second section -------------------*/
+
+.home {
+  background-image: url(images/clowds.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 10vh;
+  padding: 7% 9% 2rem;
+  font-size: 62.5%;
+  overflow-x: hidden;
+  display: flex;
+  background-color: #272227;
+}
+
+.home-content {
+  margin-right: 12%;
+  max-width: 44%;
+}
+
+.home-content h3 {
+  font-size: 48px;
+  font-weight: 900;
+  color: black;
+}
+
+.home-content h4 {
+  font-size: 28px;
+}
+
+.home-content h5 span {
+  font-size: 22px;
+  font-weight: 900;
+}
+
+span {
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.home-content h1 {
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.home-content h5 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.home-content p {
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.social-media a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+  background: transparent;
+  border: 0.2rem solid #0ef;
+  border-radius: 50%;
+  font-size: 2rem;
+  color: black;
+  margin: 3rem 1.5rem 3rem 0;
+  transition: 0.5s ease;
+}
+
+.social-media a:hover {
+  background: #0ef;
+  color: white;
+  box-shadow: 0 0 1rem #0ef;
+}
+
+.btn {
+  text-align: center;
+  display: flexbox;
+  padding: 0.5rem 2.8rem;
+  background: #3c73e9;
+  border-radius: 4rem;
+  font-size: 1.6rem;
+  color: #ffffff;
+  letter-spacing: 0.1rem;
+  font-weight: 600;
+}
+
+.btn:hover {
+  box-shadow: 0 0 1rem rgb(73, 152, 241);
+  background-color: #f0c18b;
+  color: #3c73e9;
+}
+
+/* ---------cachiball------------------- */
+
+.catchiball {
+  background-image: url(images/blue.jpg);
+  background-size: contain;
+}
+.gallery {
+  width: 100px;
+  margin: 10px;
+  display: flex;
+}
+
+img {
+  margin: 10px;
+
+  height: 250px;
+  border-radius: 20px;
+}
