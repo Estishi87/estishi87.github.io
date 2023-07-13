@@ -30,10 +30,10 @@ I am excited to continue learning more about coding and I am looking forward to 
 ## My projects:<br ></div>
 
 📂 [CatchMeIfYouCan](https://estishi87.github.io/CatchMeIfYouCan/) - **My game** is inspired by the classic PacMan game, but with a fresh new look and characters that bring a whole new level of excitement to the game, have a look!🎮<br ><br >
-📂 [EstiShi](https://estishi87.github.io/) - **My webside**, which show all of my work and my proccess through this learing journey, designed my own style and a bit about myself <br ><br >
+📂 [EstiShi](https://estishi87.github.io/) - **My webside**, which presents all of my work and my proccess through this learing journey! <br ><br >
 📂 [TTT_Game](https://estishi87.github.io/TTT_Game/) - <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ic** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**ac** <img src="images/letter-t.png" alt="Logo" width="17" height="17">**oe** is my first game, which I love and it's simply fun! ❎🔴 <br ><br >
 📂 [BabyShower](https://estishi87.github.io/BabyShower/) - an article about how to plan a **Baby shower** if you are interested 😅
-This was my attempt to design and style a webpage 🎨<br ><br >
+This was my first attempt to design and style a webpage 🎨<br ><br >
 📂 [SpriteAnimation](https://estishi87.github.io/SpriteAnimation/) - An **amazing animation** I have learnt from a toturial of [Franks laboratory](https://www.youtube.com/watch?v=1bj7g6sXit8&t=122s), which I inspire from and practicing to improve my JavaScript skills👩‍💻<br ><br >
 
 
