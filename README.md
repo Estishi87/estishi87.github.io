@@ -88,9 +88,9 @@ I have to say that I really benefited from the FAC meet-ups; some of the mentors
 <div align="left">
   
 - I need to add a different text each time you turn the picture on the “About” section and then I can add some nice and fun facts about coding and more relevant things! <br ><br >
- - A must-have section of where I got inspiration from! <br ><br >
+ - On resources section next level will be to make earth turn around! <br ><br >
  - I would like to add a section about my journey through this! <br ><br >
-- I wish to add a section about my hobbies and add some pictures about Cachiball team trainings that I’m part of, and also about Pilates training that I’m taking part in. Both of these hobbies are part of a group of moms who would like to improve their health, and I’m really proud of it :) <br ><br >
+ - I wish to add a website about my hobbies and add some pictures about Cachiball team trainings that I’m part of, and also about Pilates training that I’m taking part in. Both of these hobbies are part of a group of moms who would like to improve their health, and I’m really proud of it! :) <br ><br >
 <br ><br >
 
 Hope to manage to add all changes to the site! 🙌🏻
