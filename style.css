@@ -896,14 +896,14 @@ span {
 }
 
 .text1 p {
-  animation: MoveUpDownText 37s linear infinite;
+  animation: MoveUpDownText 76s linear infinite;
 }
 @keyframes MoveUpDownText {
   from {
     transform: translateY(500px);
   }
   to {
-    transform: translateY(-2100px);
+    transform: translateY(-2650px);
   }
 }
 
