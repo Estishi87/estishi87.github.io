@@ -14,7 +14,7 @@
 </div>
 
 #### I’m a beginner web developer and I would like to progress in this area to build up my set of skills and become a great web developer.<br > 
-###  <p align="left">I created this project to apply for the Founders and Coders Software Developer [Skills Bootcamp](https://www.foundersandcoders.com/learn/)<img src="images/FAC.jpg" alt="Logo" width="40" height="40" style="margin-bottom: -7px">.<br > </p>
+###  <p align="left">I created this project to apply for the [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Developer Skills Bootcamp<img src="images/FAC.jpg" alt="Logo" width="40" height="40" style="margin-bottom: -7px">.<br > </p>
 I believe that this course can give me a good start in the web development field, and I am passionate about learning as much as I can to become a successful web developer👩‍💻.<br ><br >
 I am fascinated by the endless possibilities of web development and the ability to create something new and exciting every day. I would love to learn how to turn my ideas into reality and make a positive impact on the world!🌍<br ><br >
 I have always been interested in technology and how it can be used to solve problems💫. Thinking about programming, I find it really amazing that these written words can automate processes and change so many things that can make our lives easier! ⭐<br ><br >
