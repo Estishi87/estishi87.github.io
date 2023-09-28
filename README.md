@@ -2,7 +2,7 @@
 <!-- GITHUB ICON -->
 <div align="center">
   <a href="https://estishi87.github.io/" {:target="_blank" rel="noopener"}>
-    <img src="images/github.svg" alt="Logo" width="80" height="80">
+    <img src="images/github_purple.webp" alt="Logo" width="250" height="150">
   </a>
 
 
